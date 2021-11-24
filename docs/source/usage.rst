@@ -19,7 +19,6 @@ No Menu Superior ou Esquerdo acesse a opção CADASTROS - COMISSÃO.
 
    Após a pesquisa realizada o usuário poderá efetuar as operações de EDIÇÃO ou EXCLUSÃO.
 
-
 .. |imagem1| image:: comissao_1.png
 
 .. |imagem2| image:: comissao_2.png
