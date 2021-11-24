@@ -50,6 +50,6 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
-.. |imagem1| image:: image/comissao_1.png
+.. |imagem1| image:: comissao_1.png
 
-.. |imagem2| image:: image/comissao_2.png
+.. |imagem2| image:: comissao_2.png
