@@ -1,5 +1,5 @@
-Usage
-=====
+Cadastro de Comissões
+=====================
 
 .. _installation:
 
