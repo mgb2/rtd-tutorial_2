@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Bem Vindo à documentação do Biz One!
+====================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
