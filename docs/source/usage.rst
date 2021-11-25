@@ -52,10 +52,12 @@ Excluir Comissão
 ----------------
 Colunas da Lista
 ----------------
+|imagem6|
 
 ------------------------
 Impressão dos Resultados
 ------------------------
+|imagem7|
 
 .. |imagem1| image:: comissao_1.png
 
@@ -66,3 +68,8 @@ Impressão dos Resultados
 .. |imagem4| image:: Criar_Comissao_2.png
 
 .. |imagem5| image:: Editar_Comissao.png
+
+.. |imagem6| image:: Comissao_Colunas.png
+
+.. |imagem7| image:: Impressao_Resultados.png
+
