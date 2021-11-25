@@ -1,20 +1,6 @@
 Cadastro de Comissões
 =====================
-
-`This <menus.rst#section>`__ is a reference to a section in another
-file, which works on github. Unfortunately, it does not work when you
-use ``rst2html``.
-
-
-
-No Menu (Superior ou Esquerdo).
-
-
-
-
-
-
-acesse a opção CADASTROS - COMISSÃO.
+No `Menu (Superior ou Esquerdo) <menus.rst#section>`__ acesse a opção CADASTROS - COMISSÃO.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
@@ -69,9 +55,6 @@ Excluir Comissão
 
 |imagem8|
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
-   
-   
-
 
 .. |br| raw:: html
    
