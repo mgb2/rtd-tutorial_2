@@ -2,6 +2,8 @@
 Criar Comissão
 --------------
 
+`Cadastro de Comissões`_
+
 - A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
