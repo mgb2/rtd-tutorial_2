@@ -22,7 +22,9 @@ Cadastro de Comissões
 - Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
 
 |imagem11|
-- `Funções da Lista`_.
+.. _link: https://www.google.com
+
+
 
 - Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
    * Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
