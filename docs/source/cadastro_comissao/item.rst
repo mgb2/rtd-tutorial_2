@@ -1,7 +1,7 @@
 --------------
 Criar Comissão
 --------------
-:ref:`Cadastro de Comissões`
+:ref:`my-reference-label`
 
 
 
