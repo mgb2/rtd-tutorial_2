@@ -24,5 +24,5 @@ Conteúdo
 .. toctree::
    :maxdepth: 2
 
-   comissao
-   item
+   cadastro_comissao/comissao
+   cadastro_comissao/item
