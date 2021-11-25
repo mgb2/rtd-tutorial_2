@@ -19,13 +19,13 @@ Cadastro de Comissões
 
 |imagem2|
 
-- O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar na lista das Comissões.
-
-- A lista também permite a `Impressão dos Resultados`_ das Comissões.
+- `Funções da Lista`_.
 
 - Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
 
 |imagem11|
+
+- `Funções da Lista`_.
 
 - Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
 - Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
@@ -90,6 +90,8 @@ Criar Novo Item
 
 |imagem17|
 
+- `Funções da Lista`_.
+
 -------------
 Inserir Valor
 -------------
@@ -97,15 +99,27 @@ Inserir Valor
 |imagem16|
 
 ----------------
+Funções da Lista
+----------------
+
 Colunas da Lista
 ----------------
+- A opção Colunas da Lista permite que o usuário escolha as colunas que serão exibidas.
+- Permite também efetuar uma Pesquisa peno nome das colunas.
 
 |imagem6|
 
-------------------------
 Impressão dos Resultados
 ------------------------
-
+- Copiar:
+   * Permite Copiar os dados dos Item(ns);
+- Excel:
+   * Gera uma Planilha;
+- CSV:
+   * Gera uma Planilha;
+-Imprimir:
+   * Gera um Relatório.
+   
 |imagem7|
 
 -------------
