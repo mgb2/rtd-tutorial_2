@@ -14,14 +14,16 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
 - Os resultados serão apresentados conforme exemplo.
 
 |imagem2|
-- `Funções da Lista`_.
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
-- Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
+   - Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
 
 |imagem11|
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
-Funcionalidades
-==============
+
+Funcionalidades da Tela
+=======================
 
 `Criar Comissão <criar_comissao.html#section>`__
 ------------------------------------------------
@@ -41,38 +43,38 @@ Funcionalidades
    
    <br />
 
-.. |imagem1| image:: /docs/source/images/comissao_1.png
+.. |imagem1| image:: /docs/source/cadastro_comissao/imagens/comissao_1.png
 
-.. |imagem2| image:: /docs/source/images/comissao_2.png
+.. |imagem2| image:: /docs/source/cadastro_comissao/imagens/comissao_2.png
 
-.. |imagem3| image:: /docs/source/images/Criar_Comissao.png
+.. |imagem3| image:: /docs/source/cadastro_comissao/imagens/Criar_Comissao.png
 
-.. |imagem4| image:: /docs/source/images/Criar_Comissao_2.png
+.. |imagem4| image:: /docs/source/cadastro_comissao/imagens/Criar_Comissao_2.png
 
-.. |imagem5| image:: /docs/source/images/Editar_Comissao.png
+.. |imagem5| image:: /docs/source/cadastro_comissao/imagens/Editar_Comissao.png
 
-.. |imagem6| image:: /docs/source/images/Comissao_Colunas.png
+.. |imagem6| image:: /docs/source/cadastro_comissao/imagens/Comissao_Colunas.png
 
-.. |imagem7| image:: /docs/source/images/Impressao_Resultados.png
+.. |imagem7| image:: /docs/source/cadastro_comissao/imagens/Impressao_Resultados.png
 
-.. |imagem8| image:: /docs/source/images/Excluir_Comissao.png
+.. |imagem8| image:: /docs/source/cadastro_comissao/imagens/Excluir_Comissao.png
 
-.. |imagem9| image:: /docs/source/images/Menu_Superior.png
+.. |imagem9| image:: /docs/source/cadastro_comissao/imagens/Menu_Superior.png
 
-.. |imagem10| image:: /docs/source/images/Menu_Esquerda.png
+.. |imagem10| image:: /docs/source/cadastro_comissao/imagens/Menu_Esquerda.png
 
-.. |imagem11| image:: /docs/source/images/Itens_Comissao.png
+.. |imagem11| image:: /docs/source/cadastro_comissao/imagens/Itens_Comissao.png
 
-.. |imagem12| image:: /docs/source/images/Item_Vigencia.png
+.. |imagem12| image:: /docs/source/cadastro_comissao/imagens/Item_Vigencia.png
 
-.. |imagem13| image:: /docs/source/images/Item_Caracteristicas.png
+.. |imagem13| image:: /docs/source/cadastro_comissao/imagens/Item_Caracteristicas.png
 
-.. |imagem14| image:: /docs/source/images/Item_Parceiro_Comercial.png
+.. |imagem14| image:: /docs/source/cadastro_comissao/imagens/Item_Parceiro_Comercial.png
 
-.. |imagem15| image:: /docs/source/images/Item_Erro.png
+.. |imagem15| image:: /docs/source/cadastro_comissao/imagens/Item_Erro.png
 
-.. |imagem16| image:: /docs/source/images/Item_Valores.png
+.. |imagem16| image:: /docs/source/cadastro_comissao/imagens/Item_Valores.png
 
-.. |imagem17| image:: /docs/source/images/Editar_Comissao_Itens.png
+.. |imagem17| image:: /docs/source/cadastro_comissao/imagens/Editar_Comissao_Itens.png
 
-.. |imagem18| image:: /docs/source/images/Valor_Criacao.png
+.. |imagem18| image:: /docs/source/cadastro_comissao/imagens/Valor_Criacao.png
