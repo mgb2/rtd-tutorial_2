@@ -69,21 +69,25 @@ Criar Novo Item
 ----------------
 Colunas da Lista
 ----------------
+
 |imagem6|
 
 ------------------------
 Impressão dos Resultados
 ------------------------
+
 |imagem7|
 
 -------------
 Menu Superior
 -------------
+
 |imagem9|
 
 -------------
 Menu Esquerdo
 -------------
+
 |imagem10|
 
 .. |imagem1| image:: comissao_1.png
