@@ -1,24 +1,28 @@
 Cadastro de Comissões
 =====================
 No Menu Superior ou Esquerdo acesse a opção CADASTROS - COMISSÃO.
-  O sistema irá apresentar uma tela conforme exemplo abaixo.
+   O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
 
-   Esta tela permite efetuar pesquisa utilizando os filtros:
-      * Número da Comissão;
-      * Descrição da Comissão;
-      * Status da Comissão.
+Esta tela permite efetuar pesquisa utilizando os filtros:
+   * Número da Comissão;
+   * Descrição da Comissão;
+   * Status da Comissão.
    
-   Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
+Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
    
-   A tela também permite `Criar Comissão`_.
+A tela também permite `Criar Comissão`_.
 
-   Os resultados serão apresentados conforme exemplo.
+Os resultados serão apresentados conforme exemplo.
 
 |imagem2|
 
-   Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
+O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar na lista das Comissões.
+
+A lista também permite a `Impressão dos Resultados`_ das Comissões.
+
+Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
 
 --------------
 Criar Comissão
@@ -45,7 +49,13 @@ A tela da Edição permite alterar o Status da Comissão e inserir Itens de Uma 
 Excluir Comissão
 ----------------
 
+----------------
+Colunas da Lista
+----------------
 
+------------------------
+Impressão dos Resultados
+------------------------
 
 .. |imagem1| image:: comissao_1.png
 
