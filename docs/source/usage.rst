@@ -86,6 +86,16 @@ Criar Novo Item
    * Valores da Comissão (`Inserir Valor`_). 
       + *Observações:* Os valores apenas serão inseridos no Item após a criação do mesmo.
 
+- Após a Inserção do Item, o sistema atualizará a página da Edição da Comissão e mostrará uma Lista com os seus respectivos Itens.
+
+|imagem17|
+
+-------------
+Inserir Valor
+-------------
+
+|imagem16|
+
 ----------------
 Colunas da Lista
 ----------------
@@ -143,3 +153,7 @@ Menu Esquerdo
 .. |imagem14| image:: Item_Parceiro_Comercial.png
 
 .. |imagem15| image:: Item_Erro.png
+
+.. |imagem16| image:: Item_Valores.png
+
+.. |imagem17| image:: Editar_Comissao_itens.png
