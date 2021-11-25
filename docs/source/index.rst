@@ -23,4 +23,4 @@ Conteúdo
 .. toctree::
 
    comissao
-   usage
+   item
