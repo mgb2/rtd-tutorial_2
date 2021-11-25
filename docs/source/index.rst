@@ -8,8 +8,8 @@ Bem Vindo à documentação do Biz One!
 Impulsionamos pessoas e empresas a serem mais eficientes, competitivas e lucrativas. |br|
 Aqui serão demonstrados os processos de Cadastro e Operações do sistema Biz One.
 
-Conteúdo
---------
+Conteúdo Documentação
+---------------------
 
 .. |br| raw:: html
 
