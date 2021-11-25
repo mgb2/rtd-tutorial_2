@@ -141,3 +141,5 @@ Menu Esquerdo
 .. |imagem13| image:: Item_Caracteristicas.png
 
 .. |imagem14| image:: Item_Parceiro_Comercial.png
+
+.. |imagem15| image:: Item_Erro.png
