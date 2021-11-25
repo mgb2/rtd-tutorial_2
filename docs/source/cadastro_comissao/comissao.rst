@@ -43,9 +43,9 @@ Funcionalidades da Tela
    
    <br />
 
-.. |imagem1| image:: /docs/source/cadastro_comissao/imagens/comissao_1.png
+.. |imagem1| image:: image/comissao_1.png
 
-.. |imagem2| image:: /docs/source/cadastro_comissao/imagens/comissao_2.png
+.. |imagem2| image:: docs/source/cadastro_comissao/imagens/comissao_2.png
 
 .. |imagem3| image:: /docs/source/cadastro_comissao/imagens/Criar_Comissao.png
 
