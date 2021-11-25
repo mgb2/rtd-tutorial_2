@@ -1,70 +1,38 @@
 Editar Comissão
 ###############
-- A tela da Edição permite alterar os dados de uma Comissão.
+- A tela da Edição permite alterar os dados de uma Comissão, Incluir Itens e Valores.
 
+- A tela mostrará também uma Lista com os Itens vinculados à Comissão.
+|imagem17|
 
-Funcionalidades da Tela
-=======================
 Salvar as Alterações   
---------------------   
-   - O Botão SALVAR
+=======================
+   - Botão SALVAR
 
 |imagem5|
-   - Somente o Status da Comissão, a Descrição não poderá ser alterada.
+   - Somente o Status da Comissão pode ser alterado.
 
 `Criar Novo Item <criar_item.html#section>`__
----------------------------------------------
+=============================================
    - Botão Criar Novo Item
 
 `Funções da Lista <funcoes_lista.html#section>`__
--------------------------------------------------
+=================================================
    - Botão Coluna
    - Botões para Copiar e Imprimir
 
 `Editar Item Comissão <editar_item.html#section>`__
----------------------------------------------------
+===================================================
    - Para executar a operação, basta selecionar a Engrenagem situada à direita da Lista e escolher a opção EDITAR ITEM COMISSÃO.
 
 `Excluir Item Comissão <excluir_item.html#section>`__
------------------------------------------------------
+=====================================================
    - Para executar a operação, basta selecionar a Engrenagem situada à direita da Lista e escolher a opção EDITAR ITEM COMISSÃO.
 
 .. |br| raw:: html
    
    <br />
 
-.. |imagem1| image:: /docs/source/cadastro_comissao/imagens/comissao_1.png
+.. |imagem5| image:: imagens/Editar_Comissao.png
 
-.. |imagem2| image:: /docs/source/cadastro_comissao/imagens/comissao_2.png
-
-.. |imagem3| image:: /docs/source/cadastro_comissao/imagens/Criar_Comissao.png
-
-.. |imagem4| image:: /docs/source/cadastro_comissao/imagens/Criar_Comissao_2.png
-
-.. |imagem5| image:: /docs/source/cadastro_comissao/imagens/Editar_Comissao.png
-
-.. |imagem6| image:: /docs/source/cadastro_comissao/imagens/Comissao_Colunas.png
-
-.. |imagem7| image:: /docs/source/cadastro_comissao/imagens/Impressao_Resultados.png
-
-.. |imagem8| image:: /docs/source/cadastro_comissao/imagens/Excluir_Comissao.png
-
-.. |imagem9| image:: /docs/source/cadastro_comissao/imagens/Menu_Superior.png
-
-.. |imagem10| image:: /docs/source/cadastro_comissao/imagens/Menu_Esquerda.png
-
-.. |imagem11| image:: /docs/source/cadastro_comissao/imagens/Itens_Comissao.png
-
-.. |imagem12| image:: /docs/source/cadastro_comissao/imagens/Item_Vigencia.png
-
-.. |imagem13| image:: /docs/source/cadastro_comissao/imagens/Item_Caracteristicas.png
-
-.. |imagem14| image:: /docs/source/cadastro_comissao/imagens/Item_Parceiro_Comercial.png
-
-.. |imagem15| image:: /docs/source/cadastro_comissao/imagens/Item_Erro.png
-
-.. |imagem16| image:: /docs/source/cadastro_comissao/imagens/Item_Valores.png
-
-.. |imagem17| image:: /docs/source/cadastro_comissao/imagens/Editar_Comissao_Itens.png
-
-.. |imagem18| image:: /docs/source/cadastro_comissao/imagens/Valor_Criacao.png
+.. |imagem17| image:: imagens/Editar_Comissao_Itens.png
