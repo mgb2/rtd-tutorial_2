@@ -56,7 +56,7 @@ Editar Comissão
 ----------------
 Excluir Comissão
 ----------------
-- Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que NÃO esteja em Período de Vigência Ativo.
+- Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que **NÃO** esteja em Período de Vigência Ativo.
 
 |imagem8|
 
@@ -65,7 +65,13 @@ Excluir Comissão
 ---------------
 Criar Novo Item
 ---------------
+- Esta funcionalidade permite o Usuário inserir um Item para uma determinada Comissão onde definirá:
+   * Período de Vigência;
+   * Características;
+   * Parceiro Comercial;
+   * Valores.
 
+|imagem12|
 
 ----------------
 Colunas da Lista
@@ -116,3 +122,5 @@ Menu Esquerdo
 .. |imagem10| image:: Menu_Esquerda.png
 
 .. |imagem11| image:: Itens_Comissao.png
+
+.. |imagem12| image:: Inserir_item.png
