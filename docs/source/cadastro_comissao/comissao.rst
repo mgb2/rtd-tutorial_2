@@ -1,5 +1,3 @@
-.. _my-reference-label:
-
 Cadastro de Comissões
 =====================
 
