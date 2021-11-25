@@ -2,7 +2,7 @@
 Criar Comissão
 --------------
 
-.. _Cadastro de Comissões
+`Cadastro de Comissões`_
 
 
 
