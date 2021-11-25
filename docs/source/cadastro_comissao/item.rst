@@ -134,38 +134,38 @@ Menu Esquerdo
 
    <br />
 
-.. |imagem1| image:: comissao_1.png
+.. |imagem1| image:: /docs/source/images/comissao_1.png
 
-.. |imagem2| image:: comissao_2.png
+.. |imagem2| image:: /docs/source/images/comissao_2.png
 
-.. |imagem3| image:: Criar_Comissao.png
+.. |imagem3| image:: /docs/source/images/Criar_Comissao.png
 
-.. |imagem4| image:: Criar_Comissao_2.png
+.. |imagem4| image:: /docs/source/images/Criar_Comissao_2.png
 
-.. |imagem5| image:: Editar_Comissao.png
+.. |imagem5| image:: /docs/source/images/Editar_Comissao.png
 
-.. |imagem6| image:: Comissao_Colunas.png
+.. |imagem6| image:: /docs/source/images/Comissao_Colunas.png
 
-.. |imagem7| image:: Impressao_Resultados.png
+.. |imagem7| image:: /docs/source/images/Impressao_Resultados.png
 
-.. |imagem8| image:: Excluir_Comissao.png
+.. |imagem8| image:: /docs/source/images/Excluir_Comissao.png
 
-.. |imagem9| image:: Menu_Superior.png
+.. |imagem9| image:: /docs/source/images/Menu_Superior.png
 
-.. |imagem10| image:: Menu_Esquerda.png
+.. |imagem10| image:: /docs/source/images/Menu_Esquerda.png
 
-.. |imagem11| image:: Itens_Comissao.png
+.. |imagem11| image:: /docs/source/images/Itens_Comissao.png
 
-.. |imagem12| image:: Item_Vigencia.png
+.. |imagem12| image:: /docs/source/images/Item_Vigencia.png
 
-.. |imagem13| image:: Item_Caracteristicas.png
+.. |imagem13| image:: /docs/source/images/Item_Caracteristicas.png
 
-.. |imagem14| image:: Item_Parceiro_Comercial.png
+.. |imagem14| image:: /docs/source/images/Item_Parceiro_Comercial.png
 
-.. |imagem15| image:: Item_Erro.png
+.. |imagem15| image:: /docs/source/images/Item_Erro.png
 
-.. |imagem16| image:: Item_Valores.png
+.. |imagem16| image:: /docs/source/images/Item_Valores.png
 
-.. |imagem17| image:: Editar_Comissao_Itens.png
+.. |imagem17| image:: /docs/source/images/Editar_Comissao_Itens.png
 
-.. |imagem18| image:: Valor_Criacao.png
+.. |imagem18| image:: /docs/source/images/Valor_Criacao.png
