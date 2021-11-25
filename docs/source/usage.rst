@@ -67,11 +67,19 @@ Criar Novo Item
 ---------------
 - Esta funcionalidade permite o Usuário inserir um Item para uma determinada Comissão onde definirá:
    * Período de Vigência;
-   * Características;
-   * Parceiro Comercial;
-   * Valores.
 
 |imagem12|
+   
+   * Características;
+   
+|imagem13|   
+
+   * Parceiro Comercial;
+|imagem14|
+
+   * Valores.
+      .. note::
+         Os valore apenas serão inseridos no Item após a criação do mesmo.
 
 ----------------
 Colunas da Lista
@@ -123,4 +131,8 @@ Menu Esquerdo
 
 .. |imagem11| image:: Itens_Comissao.png
 
-.. |imagem12| image:: Inserir_item.png
+.. |imagem12| image:: Item_Vigencia.png
+
+.. |imagem13| image:: Item_Caracteristicas.png
+
+.. |imagem14| image:: Item_Parceiro_Comercial.png
