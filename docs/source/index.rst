@@ -12,7 +12,6 @@ Conteúdo Documentação
 ---------------------
 
 .. |br| raw:: html
-
    <br />
 
 .. |logo| image:: BizOne_logo.png
