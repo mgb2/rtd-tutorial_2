@@ -2,10 +2,6 @@
 Criar Comissão
 --------------
 
-`__Cadastro de Comissões
-
-
-
 - A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
@@ -105,6 +101,11 @@ Menu Esquerdo
 -------------
 
 |imagem10|
+
+.. toctree::
+    :maxdepth: 2
+
+    cadastro_comissao/comissao
 
 .. |br| raw:: html
 
