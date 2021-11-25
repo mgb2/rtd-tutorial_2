@@ -10,24 +10,24 @@ Esta tela permite efetuar pesquisa utilizando os filtros:
    * Descrição da Comissão;
    * Status da Comissão.
    
-Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
+**Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.**
    
-A tela também permite `Criar Comissão`_.
+**A tela também permite `Criar Comissão`_.**
 
-Os resultados serão apresentados conforme exemplo.
+**Os resultados serão apresentados conforme exemplo.**
 
 |imagem2|
 
-O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar na lista das Comissões.
+**O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar na lista das Comissões.**
 
-A lista também permite a `Impressão dos Resultados`_ das Comissões.
+**A lista também permite a `Impressão dos Resultados`_ das Comissões.**
 
-Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
+**Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.**
 
 |imagem11|
 
-Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
-Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
+**Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.**
+**Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.**
 
 --------------
 Criar Comissão
