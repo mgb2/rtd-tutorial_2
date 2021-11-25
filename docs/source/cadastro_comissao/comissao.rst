@@ -1,5 +1,5 @@
 Cadastro de Comissões
-=====================
+#####################
 No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTROS - COMISSÃO.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
@@ -11,8 +11,6 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
    
 - Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
    
-- A tela também permite `Criar Comissão <criar_comissao.rst#section>`__.
-
 - Os resultados serão apresentados conforme exemplo.
 
 |imagem2|
@@ -22,8 +20,22 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
 
 |imagem11|
 
-- Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
-   * Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
+Funcionalidades
+==============
+
+`Criar Comissão <criar_comissao.html#section>`__
+------------------------------------------------
+   - Botão Criar Novo
+
+`Editar Comissão <editar_comissao.html#section>`__
+--------------------------------------------------
+   - Esta opção somente estará disponível após a pesquisa realizada.
+   - Para executar a operação, basta selecionar a Engrenagem situada à direita e escolher a opção EDITAR.
+
+`Excluir Comissão <excluir_comissao.html#section>`__
+---------------------------------------------------
+   - Esta opção somente estará disponível após a pesquisa realizada.
+   - Para executar a operação, basta selecionar a Engrenagem situada à direita e escolher a opção EXCLUIR.
 
 .. |br| raw:: html
    
