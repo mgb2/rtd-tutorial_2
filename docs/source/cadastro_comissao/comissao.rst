@@ -57,7 +57,7 @@ Excluir Comissão
 
 |imagem8|
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
-
+   
 .. |br| raw:: html
    <br />
 
