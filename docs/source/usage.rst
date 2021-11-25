@@ -12,7 +12,7 @@ No Menu Superior ou Esquerdo acesse a opção CADASTROS - COMISSÃO.
    
    Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
    
-   A tela também permite Incluir um Comissão.
+   A tela também permite `Incluir uma Comissão`_.
 
    Os resultados serão apresentados conforme exemplo.
 
