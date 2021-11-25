@@ -61,38 +61,38 @@ Excluir Comissão
 
    <br />
 
-.. |imagem1| image:: comissao_1.png
+.. |imagem1| image:: images/comissao_1.png
 
-.. |imagem2| image:: comissao_2.png
+.. |imagem2| image:: images/comissao_2.png
 
-.. |imagem3| image:: Criar_Comissao.png
+.. |imagem3| image:: images/Criar_Comissao.png
 
-.. |imagem4| image:: Criar_Comissao_2.png
+.. |imagem4| image:: images/Criar_Comissao_2.png
 
-.. |imagem5| image:: Editar_Comissao.png
+.. |imagem5| image:: images/Editar_Comissao.png
 
-.. |imagem6| image:: Comissao_Colunas.png
+.. |imagem6| image:: images/Comissao_Colunas.png
 
-.. |imagem7| image:: Impressao_Resultados.png
+.. |imagem7| image:: images/Impressao_Resultados.png
 
-.. |imagem8| image:: Excluir_Comissao.png
+.. |imagem8| image:: images/Excluir_Comissao.png
 
-.. |imagem9| image:: Menu_Superior.png
+.. |imagem9| image:: images/Menu_Superior.png
 
-.. |imagem10| image:: Menu_Esquerda.png
+.. |imagem10| image:: images/Menu_Esquerda.png
 
-.. |imagem11| image:: Itens_Comissao.png
+.. |imagem11| image:: images/Itens_Comissao.png
 
-.. |imagem12| image:: Item_Vigencia.png
+.. |imagem12| image:: images/Item_Vigencia.png
 
-.. |imagem13| image:: Item_Caracteristicas.png
+.. |imagem13| image:: images/Item_Caracteristicas.png
 
-.. |imagem14| image:: Item_Parceiro_Comercial.png
+.. |imagem14| image:: images/Item_Parceiro_Comercial.png
 
-.. |imagem15| image:: Item_Erro.png
+.. |imagem15| image:: images/Item_Erro.png
 
-.. |imagem16| image:: Item_Valores.png
+.. |imagem16| image:: images/Item_Valores.png
 
-.. |imagem17| image:: Editar_Comissao_Itens.png
+.. |imagem17| image:: images/Editar_Comissao_Itens.png
 
-.. |imagem18| image:: Valor_Criacao.png
+.. |imagem18| image:: images/Valor_Criacao.png
