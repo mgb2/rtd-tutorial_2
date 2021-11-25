@@ -23,6 +23,7 @@ O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar 
 A lista também permite a `Impressão dos Resultados`_ das Comissões.
 
 Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
+Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
 
 --------------
 Criar Comissão
@@ -41,10 +42,12 @@ Após informado corretamente uma descrição, o sistema automaticamente abrirá 
 ---------------
 Editar Comissão
 ---------------
-A tela da Edição permite alterar o Status da Comissão e inserir Itens de Uma Comissão.
+A tela da Edição permite alterar o Status e/ou `Criar Novo Item`_ para uma Comissão.
 
 |imagem5|
 
+A Descrição não poderá ser alterada.
+O Botão SALVAR irá atualizar o Status da Comissão.
 
 ----------------
 Excluir Comissão
@@ -52,6 +55,14 @@ Excluir Comissão
 Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que NÃO esteja em Período de Vigência Ativo.
 
 |imagem8|
+
+Após excluída uma Comissão, a lista automaticamente será atualizada.
+
+
+---------------
+Criar Novo Item
+---------------
+
 
 ----------------
 Colunas da Lista
