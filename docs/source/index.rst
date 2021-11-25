@@ -23,4 +23,4 @@ Conteúdo Documentação
 .. toctree::
 
    comissao
-   api
+   usage
