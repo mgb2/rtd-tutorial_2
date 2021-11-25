@@ -25,4 +25,3 @@ Conteúdo
    :maxdepth: 2
 
    cadastro_comissao/comissao
-   cadastro_comissao/item
