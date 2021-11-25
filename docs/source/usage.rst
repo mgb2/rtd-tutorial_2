@@ -81,7 +81,7 @@ Menu Superior
 |imagem9|
 
 -------------
-Menu Esquerda
+Menu Esquerdo
 -------------
 |imagem10|
 
