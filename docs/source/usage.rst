@@ -33,11 +33,11 @@ Criar Comissão
 - A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
-- O sistema valida a descrição informada pelo usuário.
-- Caso não for informada descrição ou informada menos de 2 caracteres, é exibida a mensagem.
+   * O sistema valida a descrição informada pelo usuário.
+   * Caso não for informada descrição ou informada menos de 2 caracteres, é exibida a mensagem.
 
 |imagem4|
-- Após informado corretamente uma descrição, o sistema automaticamente abrirá a tela de `Editar Comissão`_.
+   * Após informado corretamente uma descrição, o sistema automaticamente abrirá a tela de `Editar Comissão`_.
 
 ---------------
 Editar Comissão
@@ -53,7 +53,7 @@ Excluir Comissão
 - Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que **NÃO** esteja em Período de Vigência Ativo.
 
 |imagem8|
-- Após excluída uma Comissão, a lista automaticamente será atualizada.
+   * Após excluída uma Comissão, a lista automaticamente será atualizada.
 
 ---------------
 Criar Novo Item
@@ -62,32 +62,37 @@ Criar Novo Item
    * Período de Vigência;
 
 |imagem12|
-      + A Data Início da Vigência é obrigatória.
+   * A Data Início da Vigência é obrigatória.
    
-   * Características;
+   
+   - Características;
    
 |imagem13|      
-      + Caso não tenha sido informada nenhuma Característica, o sistema apresentará uma mensagem de advertência.
+   * Caso não tenha sido informada nenhuma Característica, o sistema apresentará uma mensagem de advertência.
       
 |imagem15|
    
-   * Parceiro Comercial;
+   - Parceiro Comercial;
    
 |imagem14|
 
-   * Valores da Comissão (`Inserir Valor`_). 
+   - Valores da Comissão (`Inserir Valor`_). 
       + *Observações:* Os valores apenas serão inseridos no Item após a criação do mesmo.
 
 - Após a Inserção do Item, o sistema atualizará a página da Edição da Comissão e mostrará uma Lista com os seus respectivos Itens.
 
 |imagem17|
-- `Funções da Lista`_.
+   * `Funções da Lista`_.
 
 -------------
 Inserir Valor
 -------------
+- Permite a Inserção de um ou mais valores para um Item da Comissão.
 
 |imagem16|
+   * Ao Clicar em + Inserir Valor, o sistema abrirá uma tela para informar os dados.
+   
+|imagem18|
 
 ----------------
 Funções da Lista
@@ -162,3 +167,5 @@ Menu Esquerdo
 .. |imagem16| image:: Item_Valores.png
 
 .. |imagem17| image:: Editar_Comissao_Itens.png
+
+.. |imagem18| image:: Valor_Criacao.png
