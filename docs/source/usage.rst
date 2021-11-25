@@ -27,9 +27,19 @@ A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
 
+O sistema valida a descrição informada pelo usuário.
+Caso não for informada descrição ou informada menos de 2 caracteres, é exibida a mensagem.
+
+|imagem4|
+
+Após informado corretamente uma descrição, o sistema automaticamente abrirá a tela de `Editar Comissão`_.
+
 ---------------
 Editar Comissão
 ---------------
+A tela da Edição permite alterar o Status da Comissão e inserir Itens de Uma Comissão.
+
+|imagem5|
 
 ----------------
 Excluir Comissão
@@ -42,3 +52,7 @@ Excluir Comissão
 .. |imagem2| image:: comissao_2.png
 
 .. |imagem3| image:: Criar_Comissao.png
+
+.. |imagem4| image:: Criar_Comissao_2.png
+
+.. |imagem5| image:: Editar_Comissao.png
