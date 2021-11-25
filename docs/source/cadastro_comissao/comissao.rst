@@ -1,6 +1,6 @@
 Cadastro de Comissões
 =====================
-No `Menu (Superior ou Esquerdo) <menus.rst#section>`__ acesse a opção CADASTROS - COMISSÃO.
+No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTROS - COMISSÃO.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
