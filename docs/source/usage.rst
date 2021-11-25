@@ -45,9 +45,13 @@ A tela da Edição permite alterar o Status da Comissão e inserir Itens de Uma 
 
 |imagem5|
 
+
 ----------------
 Excluir Comissão
 ----------------
+Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que NÃO esteja em Período de Vigência Ativo.
+
+|imagem8|
 
 ----------------
 Colunas da Lista
@@ -73,3 +77,4 @@ Impressão dos Resultados
 
 .. |imagem7| image:: Impressao_Resultados.png
 
+.. |imagem8| image:: Excluir_Comissao.png
