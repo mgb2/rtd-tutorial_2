@@ -22,6 +22,7 @@ Conteúdo
                   :align: middle
 
 .. toctree::
+   :maxdepth: 2
 
-   /cod_comissao/comissao
-   /cod_comissao/item
+   comissao
+   item
