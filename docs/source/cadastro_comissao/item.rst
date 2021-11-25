@@ -1,35 +1,9 @@
-Cadastro de Comissões
-=====================
-
-- No `Menu Superior`_ ou `Menu Esquerdo`_ acesse a opção CADASTROS - COMISSÃO.
-   * O sistema irá apresentar uma tela conforme exemplo abaixo.
-
-|imagem1|
-- Esta tela permite efetuar pesquisa utilizando os filtros:
-   * Número da Comissão;
-   * Descrição da Comissão;
-   * Status da Comissão.
-   
-- Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
-   
-- A tela também permite `Criar Comissão`_.
-
-- Os resultados serão apresentados conforme exemplo.
-
-|imagem2|
-- `Funções da Lista`_.
-
-- Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
-
-|imagem11|
-- `Funções da Lista`_.
-
-- Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
-   * Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
-
 --------------
 Criar Comissão
 --------------
+:ref:`Cadastro de Comissões`
+
+
 - A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
