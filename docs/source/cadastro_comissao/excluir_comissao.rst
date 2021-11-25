@@ -1,6 +1,8 @@
 Excluir Comissão
 ################
-- Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que **NÃO** esteja em Período de Vigência Ativo.
+   - A Exclusão da Comissão somente é permitida na Tela Principal do Cadastro.
+
+   - Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que **NÃO** esteja em Período de Vigência Ativo.
 
 |imagem8|
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
