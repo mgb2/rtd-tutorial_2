@@ -14,7 +14,7 @@ Conteúdo
 .. |br| raw:: html
    <br />
 
-.. |logo| image:: BizOne_logo.png
+.. |logo| image:: images/BizOne_logo.png
                   :height: 100px
                   :width: 200 px
                   :scale: 150 %
