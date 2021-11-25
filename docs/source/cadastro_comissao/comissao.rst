@@ -1,7 +1,7 @@
 Cadastro de Comissões
 =====================
 
-- No `Menu Superior`_ ou `Menu Esquerdo`_ acesse a opção CADASTROS - COMISSÃO.
+- No Menu (Superior ou Esquerdo) acesse a opção CADASTROS - COMISSÃO.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
@@ -58,9 +58,11 @@ Excluir Comissão
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
    
    
-   :ref:`my-reference-label`
-   
+.. |PagItem| raw:: html
+       <a href="cadastro_comissao/menus.html" class="icon icon-home">
+
 .. |br| raw:: html
+   
    <br />
 
 .. |imagem1| image:: /docs/source/images/comissao_1.png
