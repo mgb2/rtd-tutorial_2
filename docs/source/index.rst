@@ -22,5 +22,5 @@ Conteúdo
 
 .. toctree::
 
-   comissao
-   item
+   /cod_comissao/comissao
+   /cod_comissao/item
