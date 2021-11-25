@@ -1,21 +1,21 @@
 Cadastro de Comissões
 =====================
 
-No `Menu Superior`_ ou `Menu Esquerdo`_ acesse a opção CADASTROS - COMISSÃO.
-   O sistema irá apresentar uma tela conforme exemplo abaixo.
+- No `Menu Superior`_ ou `Menu Esquerdo`_ acesse a opção CADASTROS - COMISSÃO.
+   * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
 
-Esta tela permite efetuar pesquisa utilizando os filtros:
-   Número da Comissão;
-   Descrição da Comissão;
-   Status da Comissão.
+- Esta tela permite efetuar pesquisa utilizando os filtros:
+   * Número da Comissão;
+   * Descrição da Comissão;
+   * Status da Comissão.
    
-Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
+- Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
    
-**A tela também permite `Criar Comissão`_.**
+- A tela também permite `Criar Comissão`_.
 
-**Os resultados serão apresentados conforme exemplo.**
+- Os resultados serão apresentados conforme exemplo.
 
 |imagem2|
 
