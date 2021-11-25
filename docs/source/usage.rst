@@ -19,48 +19,48 @@ Cadastro de Comissões
 
 |imagem2|
 
-**O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar na lista das Comissões.**
+- O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar na lista das Comissões.
 
-**A lista também permite a `Impressão dos Resultados`_ das Comissões.**
+- A lista também permite a `Impressão dos Resultados`_ das Comissões.
 
-**Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.**
+- Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
 
 |imagem11|
 
-**Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.**
-**Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.**
+- Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
+- Para executar uma destas opções, basta selecionar a Engrenagem situada à direita ou clicar com o botão direito na linha do item a ser selecionado.
 
 --------------
 Criar Comissão
 --------------
-A funcionalidade permite gerar um novo código de Comissão.
+- A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
 
-O sistema valida a descrição informada pelo usuário.
-Caso não for informada descrição ou informada menos de 2 caracteres, é exibida a mensagem.
+- O sistema valida a descrição informada pelo usuário.
+- Caso não for informada descrição ou informada menos de 2 caracteres, é exibida a mensagem.
 
 |imagem4|
 
-Após informado corretamente uma descrição, o sistema automaticamente abrirá a tela de `Editar Comissão`_.
+- Após informado corretamente uma descrição, o sistema automaticamente abrirá a tela de `Editar Comissão`_.
 
 ---------------
 Editar Comissão
 ---------------
-A tela da Edição permite alterar o Status e/ou `Criar Novo Item`_ para uma Comissão.
+- A tela da Edição permite alterar o Status e/ou `Criar Novo Item`_ para uma Comissão.
 
 |imagem5|
 
-O Botão SALVAR irá atualizar o Status da Comissão, a Descrição não poderá ser alterada.
+- O Botão SALVAR irá atualizar o Status da Comissão, a Descrição não poderá ser alterada.
 
 ----------------
 Excluir Comissão
 ----------------
-Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que NÃO esteja em Período de Vigência Ativo.
+- Ao selecionar um item da Lista, o sistema permite Excluir a Comissão, desde que NÃO esteja em Período de Vigência Ativo.
 
 |imagem8|
 
-Após excluída uma Comissão, a lista automaticamente será atualizada.
+- Após excluída uma Comissão, a lista automaticamente será atualizada.
 
 ---------------
 Criar Novo Item
@@ -90,6 +90,10 @@ Menu Esquerdo
 -------------
 
 |imagem10|
+
+.. |br| raw:: html
+
+   <br />
 
 .. |imagem1| image:: comissao_1.png
 
