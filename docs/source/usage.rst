@@ -69,17 +69,22 @@ Criar Novo Item
    * Período de Vigência;
 
 |imagem12|
+
+      + A Data Início da Vigência é obrigatória.
    
    * Características;
    
 |imagem13|   
+      
+      + Caso não tenha sido informada nenhuma Característica, o sistema apresentará uma mensagem de advertência.
+      
+|imagem15|
 
    * Parceiro Comercial;
 |imagem14|
 
-   * Valores.
-      .. note::
-         Os valore apenas serão inseridos no Item após a criação do mesmo.
+   * Valores da Comissão (`Inserir Valor`_). 
+      + *Observações:* Os valores apenas serão inseridos no Item após a criação do mesmo.
 
 ----------------
 Colunas da Lista
