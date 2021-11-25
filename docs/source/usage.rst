@@ -156,4 +156,4 @@ Menu Esquerdo
 
 .. |imagem16| image:: Item_Valores.png
 
-.. |imagem17| image:: Editar_Comissao_itens.png
+.. |imagem17| image:: Editar_Comissao_Itens.png
