@@ -1,7 +1,7 @@
 --------------
 Criar Comissão
 --------------
-:doc:`Cadastro de Comissões </cadastro_comissao>`
+:doc:`Cadastro de Comissões </cadastro_comissao/item>`
 
 
 - A funcionalidade permite gerar um novo código de Comissão.
