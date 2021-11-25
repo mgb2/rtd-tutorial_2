@@ -23,6 +23,7 @@ O usuário ainda pode informar quais as `Colunas da Lista`_ que quer visualizar 
 A lista também permite a `Impressão dos Resultados`_ das Comissões.
 
 Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
+
 |imagem11|
 
 Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
