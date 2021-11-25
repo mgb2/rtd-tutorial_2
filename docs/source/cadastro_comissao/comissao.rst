@@ -1,7 +1,15 @@
 Cadastro de Comissões
 =====================
+::role:`target`
 
-- No Menu (Superior ou Esquerdo) acesse a opção CADASTROS - COMISSÃO.
+No Menu (Superior ou Esquerdo).
+
+
+
+
+
+
+acesse a opção CADASTROS - COMISSÃO.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
@@ -59,6 +67,7 @@ Excluir Comissão
    
    
 .. |PagItem| raw:: html
+
        <a href="cadastro_comissao/menus.html" class="icon icon-home">
 
 .. |br| raw:: html
