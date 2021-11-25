@@ -5,11 +5,15 @@
 Bem Vindo à documentação do Biz One!
 ====================================
 
-Impulsionamos pessoas e empresas a serem mais eficientes, competitivas e lucrativas.
+Impulsionamos pessoas e empresas a serem mais eficientes, competitivas e lucrativas. |br|
 Aqui serão demonstrados os processos de Cadastro e Operações do sistema Biz One.
 
 Conteúdo
 --------
+
+.. |br| raw:: html
+
+   <br />
 
 .. |logo| image:: BizOne_logo.png
                   :height: 100px
