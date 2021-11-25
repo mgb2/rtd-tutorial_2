@@ -1,6 +1,6 @@
 Cadastro de Comissões
 =====================
-No Menu Superior ou Esquerdo acesse a opção CADASTROS - COMISSÃO.
+No Menu Superior |imagem9| ou Esquerdo |imagem10| acesse a opção CADASTROS - COMISSÃO.
    O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
@@ -89,3 +89,7 @@ Impressão dos Resultados
 .. |imagem7| image:: Impressao_Resultados.png
 
 .. |imagem8| image:: Excluir_Comissao.png
+
+.. |imagem9| image:: Menu_Superior.png
+
+.. |imagem10| image:: Menu_Esquerda.png
