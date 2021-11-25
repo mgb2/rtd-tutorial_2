@@ -58,7 +58,6 @@ Excluir Comissão
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
 
 .. |br| raw:: html
-
    <br />
 
 .. |imagem1| image:: /docs/source/images/comissao_1.png
