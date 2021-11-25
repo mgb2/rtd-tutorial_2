@@ -90,7 +90,7 @@ Inserir Valor
 - Permite a Inserção de um ou mais valores para um Item da Comissão.
 
 |imagem16|
-   * Ao Clicar em + Inserir Valor, o sistema abrirá uma tela para informar os dados.
+   * Ao Clicar em **+ Inserir Valor**, o sistema abrirá uma tela para informar os dados.
    
 |imagem18|
 
