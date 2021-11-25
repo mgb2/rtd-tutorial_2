@@ -18,7 +18,7 @@ No Menu Superior ou Esquerdo acesse a opção CADASTROS - COMISSÃO.
 
 |imagem2|
 
-   Após a pesquisa realizada o usuário poderá efetuar as operações de EDIÇÃO ou EXCLUSÃO.
+   Após a pesquisa realizada o usuário poderá efetuar as operações de `Editar Comissão`_ ou `Excluir Comissão`_.
 
 --------------
 Criar Comissão
@@ -26,6 +26,15 @@ Criar Comissão
 A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
+
+---------------
+Editar Comissão
+---------------
+
+----------------
+Excluir Comissão
+----------------
+
 
 
 .. |imagem1| image:: comissao_1.png
