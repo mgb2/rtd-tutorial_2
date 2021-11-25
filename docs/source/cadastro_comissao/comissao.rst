@@ -1,6 +1,11 @@
 Cadastro de Comissões
 =====================
-::role:`target`
+
+`This <menus.rst#section>`__ is a reference to a section in another
+file, which works on github. Unfortunately, it does not work when you
+use ``rst2html``.
+
+
 
 No Menu (Superior ou Esquerdo).
 
@@ -66,9 +71,7 @@ Excluir Comissão
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
    
    
-.. |PagItem| raw:: html
 
-       <a href="cadastro_comissao/menus.html" class="icon icon-home">
 
 .. |br| raw:: html
    
