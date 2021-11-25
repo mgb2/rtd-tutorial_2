@@ -1,6 +1,12 @@
 Cadastro de Comissões
 =====================
-No Menu Superior |imagem9| ou Esquerdo |imagem10| acesse a opção CADASTROS - COMISSÃO.
+No Menu Superior 
+|imagem9| 
+
+ou Menu Esquerdo 
+|imagem10| 
+
+acesse a opção CADASTROS - COMISSÃO.
    O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
