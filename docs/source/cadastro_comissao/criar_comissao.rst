@@ -1,5 +1,5 @@
 Criar Comissão
-==============
+##############
 A funcionalidade permite gerar um novo código de Comissão.
 
 |imagem3|
