@@ -19,6 +19,6 @@ Excluir Item Comissão
    <br />
 
 
-.. |imagem19| image:: imagens/Editar_Comissao_Itens_2.png
+.. |imagem19| image:: imagens/Item_Excluir.png
 
 .. |imagem24| image:: imagens/Item_Erro_2.png
