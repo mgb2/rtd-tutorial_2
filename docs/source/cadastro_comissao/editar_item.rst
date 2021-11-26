@@ -14,16 +14,27 @@ Editar Item  Comissão
 
 - Características
 
-|imagem 21|
+|imagem21|
 
 - Parceiro Comercial
 
 |Imagem22|
 
+- Valores
+   * Exemplo de Item sem Valores adicionados.
+   
+|imagem16|
+
+   * Exemplo de Item com Valores adicionados.
+   
+|imagem23|
+
 
 .. |br| raw:: html
 
    <br />
+
+.. |imagem16| image:: imagens/Item_Valores.png
 
 .. |imagem19| image:: imagens/Editar_Comissao_Itens_2.png
 
@@ -32,3 +43,5 @@ Editar Item  Comissão
 .. |imagem21| image:: imagens/Editar_Comissao_Itens_4.png
 
 .. |imagem22| image:: imagens/Editar_Comissao_Itens_5.png
+
+.. |imagem23| image:: imagens/Valor_Lista.png
