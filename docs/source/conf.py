@@ -6,7 +6,6 @@ project = 'Biz One'
 copyright = '2021, AKR Sistemas'
 author = 'Marcos Barbisan'
 
-
 # -- General configuration
 
 extensions = [
