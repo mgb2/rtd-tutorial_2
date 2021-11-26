@@ -36,6 +36,7 @@ Editar Item Comissão
     :maxdepth: 2
 
     inserir_valor
+    editar_valor
 
 .. |br| raw:: html
 
