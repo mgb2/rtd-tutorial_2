@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Biz One'
 copyright = '2021, AKR Sistemas'
 author = 'Marcos Barbisan'
 
