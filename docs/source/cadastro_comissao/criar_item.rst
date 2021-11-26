@@ -30,7 +30,7 @@ Criar Novo Item
 - Após informados os dados relativos ao Item e clicado em **Confirmar**, o sistema fechará a janela da inserção e atualizará a página da Edição da Comissão e mostrará uma Lista com os seus respectivos Itens.
 
 |imagem17|
-   * Funções da Lista
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
 
 .. |br| raw:: html
