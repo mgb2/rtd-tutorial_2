@@ -37,6 +37,7 @@ Editar Item Comissão
 
     inserir_valor
     editar_valor
+    excluir_valor
 
 .. |br| raw:: html
 
