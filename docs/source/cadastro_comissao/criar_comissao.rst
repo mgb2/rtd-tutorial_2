@@ -13,7 +13,7 @@ Criar Comissão
    * Caso não for informada Descrição ou informada menos de 2 caracteres, é exibida a mensagem.
 
 |imagem4|
-   * Após informado corretamente uma Descrição, o sistema automaticamente abrirá a tela de Editar Comissão.
+   * Após informado corretamente uma Descrição e clicado em **Confirmar**, o sistema automaticamente abrirá a tela de Editar Comissão.
 
 .. |br| raw:: html
    
