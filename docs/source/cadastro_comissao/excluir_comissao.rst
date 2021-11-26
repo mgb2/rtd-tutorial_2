@@ -10,7 +10,7 @@ Excluir Comissão
 - O sistema permite Excluir a Comissão desde que **NÃO** esteja em Período de Vigência Ativo.
      
 - Caso o sistema verifique que a Vigência da Comissão está ativa, informará um erro ao usuário.
-|imagem18|  
+|imagem18|
 
 
 .. |br| raw:: html
