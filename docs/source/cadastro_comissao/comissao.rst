@@ -29,6 +29,7 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
    criar_comissao
    editar_comissao
    excluir_comissao
+   funcoes_lista
 
 .. |br| raw:: html
    
