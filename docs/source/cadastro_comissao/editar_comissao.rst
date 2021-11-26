@@ -6,6 +6,7 @@ Editar Comissão
 - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 |imagem27|
    - Após o sistema irá abrir uma nova tela com a Comissão escolhida anteriormente.
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
 - Exemplo da tela de Editar Comissão sem Itens vinculados.
 
@@ -14,6 +15,7 @@ Editar Comissão
 - Exemplo da tela de Editar Comissões com uma Lista de Itens vinculados.
 
 |imagem17|
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
 - Botão SALVAR
    - Somente o Status da Comissão pode ser alterado.
