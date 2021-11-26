@@ -1,13 +1,14 @@
 Excluir Comissão
 ################
-   - A Exclusão da Comissão somente é permitida na Tela Principal do Cadastro.
-   - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir**.
+- A Exclusão da Comissão somente é permitida na Tela Principal do Cadastro.
+- Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir**.
+
 |imagem8|
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
 
-   - O sistema permite Excluir a Comissão desde que **NÃO** esteja em Período de Vigência Ativo.
+- O sistema permite Excluir a Comissão desde que **NÃO** esteja em Período de Vigência Ativo.
      
-   -- Caso o sistema verifique que a Vigência da Comissão está ativa, informará um erro ao usuário.
+- Caso o sistema verifique que a Vigência da Comissão está ativa, informará um erro ao usuário.
 |imagem18|  
 
 
