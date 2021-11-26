@@ -20,7 +20,7 @@ Editar Item Comissão
 
 |Imagem22|
 
-- Valores
+- Valores da Comissão
    * Exemplo de Item sem Valores adicionados.
    
 |imagem16|
