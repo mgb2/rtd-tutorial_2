@@ -2,37 +2,29 @@ Editar Comissão
 ###############
 - A tela da Edição permite alterar os dados de uma Comissão, Incluir Itens e Valores.
 
-- A tela mostrará também uma Lista com os Itens vinculados à Comissão.
+- Esta tela é chamada através da Lista das Comissões exibida na tela principal do Cadastro.
+- Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção EDITAR.
+|imagem8|
+   - Após o sistema irá abrir uma nova tela com a Comissão escolhida anteriormente.
+
+- Exemplo da tela de Editar Comissão sem Itens vinculados.
+
+|imagem5|   
+
+- Exemplo da tela de Editar Comissões com uma Lista de Itens vinculados.
+
 |imagem17|
 
-Salvar as Alterações   
-=======================
-   - Botão SALVAR
-
-|imagem5|
+- Botão SALVAR
    - Somente o Status da Comissão pode ser alterado.
 
-`Criar Novo Item <criar_item.html#section>`__
-=============================================
-   - Botão Criar Novo Item
-
-`Funções da Lista <funcoes_lista.html#section>`__
-=================================================
-   - Botão Coluna
-   - Botões para Copiar e Imprimir
-
-`Editar Item Comissão <editar_item.html#section>`__
-===================================================
-   - Para executar a operação, basta selecionar a Engrenagem situada à direita da Lista e escolher a opção EDITAR ITEM COMISSÃO.
-
-`Excluir Item Comissão <excluir_item.html#section>`__
-=====================================================
-   - Para executar a operação, basta selecionar a Engrenagem situada à direita da Lista e escolher a opção EDITAR ITEM COMISSÃO.
 
 .. |br| raw:: html
    
    <br />
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
+
+.. |imagem8| image:: imagens/Excluir_Comissao.png
 
 .. |imagem17| image:: imagens/Editar_Comissao_Itens.png
