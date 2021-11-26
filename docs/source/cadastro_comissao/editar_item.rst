@@ -30,6 +30,12 @@ Editar Item Comissão
    
 |imagem23|
 
+- Após efetuadas as alterações e clidao em **Confirmar**, o sistema fechará a janela da Edição e atualizará a tela da Edição da Comissão.
+
+.. toctree::
+    :maxdepth: 2
+
+    inserir_valor
 
 .. |br| raw:: html
 
