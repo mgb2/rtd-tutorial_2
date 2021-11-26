@@ -6,6 +6,7 @@ Editar Item Comissão
 - Para isso, baste selecionar um Item da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar Item Comissão**.
 
 |imagem19|
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
 - Após, o sistema irá abrir uma nova janela com os dados do Item selecionado.
 
