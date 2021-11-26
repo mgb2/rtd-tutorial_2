@@ -3,7 +3,7 @@ Editar Comissão
 - A tela da Edição permite alterar os dados de uma Comissão, Incluir Itens e Valores.
 
 - Esta tela é chamada através da Lista das Comissões exibida na tela principal do Cadastro.
-- Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção EDITAR.
+- Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 |imagem8|
    - Após o sistema irá abrir uma nova tela com a Comissão escolhida anteriormente.
 
