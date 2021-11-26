@@ -1,6 +1,12 @@
 Criar Comissão
 ##############
-Permite gerar uma nova Tabela de Comissão.
+- Permite gerar uma nova Tabela de Comissão.
+
+- Essa opção é chamada através do botão CRIAR NOVO da tela principal do Cadastro de Comissões.
+
+|imagem1|
+
+- Após clicar no botão, o sistema irá abrir uma nova tela para a criação do cadastro.
 
 |imagem3|
    * O sistema valida a descrição informada pelo usuário.
@@ -12,6 +18,8 @@ Permite gerar uma nova Tabela de Comissão.
 .. |br| raw:: html
    
    <br />
+
+.. |imagem1| image:: imagens/comissao_1.png
 
 .. |imagem3| image:: imagens/Criar_Comissao.png
 
