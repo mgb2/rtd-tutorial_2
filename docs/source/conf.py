@@ -6,8 +6,6 @@ project = 'Biz One'
 copyright = '2021, AKR Sistemas'
 author = 'Marcos Barbisan'
 
-release = '0.1'
-version = '0.1.0'
 
 # -- General configuration
 
