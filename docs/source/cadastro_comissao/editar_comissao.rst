@@ -24,6 +24,7 @@ Editar Comissão
 
     criar_item
     editar_item
+    excluir_item
 
 .. |br| raw:: html
    
