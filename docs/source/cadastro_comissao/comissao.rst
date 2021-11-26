@@ -9,7 +9,7 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
    * Descrição da Comissão;
    * Status da Comissão.
    
-- Caso o usuário não queira informar nenhum filtro, basta clicar em PESQUISAR.
+- Caso o usuário não queira informar nenhum filtro, basta clicar em **Pesquisar**.
    
 - Os resultados serão apresentados conforme exemplo.
 
