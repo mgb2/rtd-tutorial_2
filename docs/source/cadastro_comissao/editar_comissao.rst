@@ -19,6 +19,11 @@ Editar Comissão
    - Somente o Status da Comissão pode ser alterado.
 
 
+.. toctree::
+    :maxdepth: 2
+
+    criar_item
+
 .. |br| raw:: html
    
    <br />
