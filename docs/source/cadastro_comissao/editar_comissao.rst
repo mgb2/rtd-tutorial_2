@@ -23,6 +23,7 @@ Editar Comissão
     :maxdepth: 2
 
     criar_item
+    editar_tem
 
 .. |br| raw:: html
    
