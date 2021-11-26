@@ -5,6 +5,7 @@ Excluir Valor
 
 |imagem26|
    - Após, o sistema irá atualizar automaticamente a tela da Edição do Item da Comissão.
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
 
 .. |br| raw:: html
