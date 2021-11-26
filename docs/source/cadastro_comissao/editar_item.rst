@@ -8,19 +8,20 @@ Editar Item Comissão
 |imagem19|
 
 - Após, o sistema irá abrir uma nova janela com os dados do Item selecionado.
-- Vigência
+
+- **Vigência**
 
 |imagem20|
 
-- Características
+- **Características**
 
 |imagem21|
 
-- Parceiro Comercial
+- **Parceiro Comercial**
 
 |Imagem22|
 
-- Valores da Comissão
+- **Valores da Comissão**
    * Exemplo de Item sem Valores adicionados.
    
 |imagem16|
