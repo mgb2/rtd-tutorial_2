@@ -25,7 +25,6 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
 .. toctree::
    :maxdepth: 2
 
-   menus
    criar_comissao
    editar_comissao
    excluir_comissao
