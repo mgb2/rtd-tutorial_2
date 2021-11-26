@@ -5,6 +5,7 @@ Excluir Comissão
 
 |imagem8|
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
+   * `Funções da Lista <funcoes_lista.html#section>`__
 
 - O sistema permite Excluir a Comissão desde que **NÃO** esteja em Período de Vigência Ativo.
      
