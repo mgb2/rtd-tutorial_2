@@ -30,7 +30,7 @@ Editar Item Comissão
    * Exemplo de Item com Valores adicionados.
    
 |imagem23|
-
+   * `Funções da Lista <funcoes_lista.html#section>`__
 - Após efetuadas as alterações e clicado em **Confirmar**, o sistema fechará a janela da Edição e atualizará a tela da Edição da Comissão.
 
 .. toctree::
