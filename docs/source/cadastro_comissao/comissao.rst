@@ -31,6 +31,13 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
 `Excluir Comissão <excluir_comissao.html#section>`__
 ----------------------------------------------------
 
+.. toctree::
+   :maxdepth: 2
+
+   criar_comissao
+   editar_comissao
+   excluir_comissao
+
 .. |br| raw:: html
    
    <br />
