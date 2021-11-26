@@ -22,15 +22,6 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção CADASTR
    - `Funções da Lista <funcoes_lista.html#section>`__
 
 
-`Criar Comissão <criar_comissao.html#section>`__
-------------------------------------------------
-
-`Editar Comissão <editar_comissao.html#section>`__
---------------------------------------------------
-
-`Excluir Comissão <excluir_comissao.html#section>`__
-----------------------------------------------------
-
 .. toctree::
    :maxdepth: 2
 
