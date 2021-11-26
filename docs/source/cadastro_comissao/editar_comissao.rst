@@ -4,7 +4,7 @@ Editar Comissão
 
 - Esta tela é chamada através da Lista das Comissões exibida na tela principal do Cadastro.
 - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
-|imagem8|
+|imagem27|
    - Após o sistema irá abrir uma nova tela com a Comissão escolhida anteriormente.
 
 - Exemplo da tela de Editar Comissão sem Itens vinculados.
@@ -35,3 +35,5 @@ Editar Comissão
 .. |imagem8| image:: imagens/Excluir_Comissao.png
 
 .. |imagem17| image:: imagens/Editar_Comissao_Itens.png
+
+.. |imagem27| image:: imagens/Editar_Comissao_2.png
