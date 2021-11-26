@@ -4,9 +4,8 @@ Excluir Valor
 - Para isso, baste selecionar um Item da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir Valor**.
 
 |imagem26|
-   - Após, o sistema irá atualizar automaticamente a tela da Edição do Item da Comissão.
    - `Funções da Lista <funcoes_lista.html#section>`__
-
+   - Após, o sistema irá atualizar automaticamente a tela da Edição do Item da Comissão.
 
 .. |br| raw:: html
 
