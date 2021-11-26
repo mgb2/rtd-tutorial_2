@@ -5,6 +5,7 @@ Editar Valor
 - Para isso, baste selecionar um Item da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar Valor**.
 
 |imagem26|
+   - `Funções da Lista <funcoes_lista.html#section>`__
 
 - Após, será aberta uma nova janela que permite o Usuário alterar o Valor do Item da Comissão.
 - A Chave do Valor da Comissão não poderá ser alterada.
