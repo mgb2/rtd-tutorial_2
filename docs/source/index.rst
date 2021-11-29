@@ -27,3 +27,4 @@ Conteúdo
 
    cadastro_comissao/menus
    cadastro_comissao/comissao
+   parceiro_comercial/parceiro_comercial
