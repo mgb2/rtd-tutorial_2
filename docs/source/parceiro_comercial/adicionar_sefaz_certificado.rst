@@ -21,7 +21,7 @@ Dados para Emissão de Nota Fiscal
    
    <br />
 
-.. |imagem31| image:: imagens/Parceiro_Comercial_34.png
+.. |imagem31| image:: imagens/Parceiro_Comercial_31.png
 
 .. |imagem32| image:: imagens/Parceiro_Comercial_32.png
 
