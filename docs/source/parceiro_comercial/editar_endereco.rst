@@ -7,14 +7,15 @@ Editar Endereço
 |imagem25|
    - Após o sistema irá abrir uma nova tela com o Endereço escolhido anteriormente.   
 
+|imagem26|
+
 - Tipo de Endereço.
    * Criar um Novo Tipo de Endereço.
       - Para isto, basta clicar no ícone |imagem50|.
    * Limpar o Tipo de Endereço.
       - Para isto, basta clicar no ícone |imagem51|.
 
-|imagem26|
-   - Depois das alterações efetuadas é preciso clicar em **Salvar** e o sistema atualizará a lista da tela Editar Parceiro Comercial.
+ - Depois das alterações efetuadas é preciso clicar em **Salvar** e o sistema atualizará a lista da tela Editar Parceiro Comercial.
 
 
 .. |br| raw:: html
