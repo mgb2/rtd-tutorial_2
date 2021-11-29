@@ -6,7 +6,7 @@ Adicionar Contatos
 
 |imagem13|
 
-- Após clicar no botão, o sistema irá abrir uma nova tela para a criação do contato.
+- Após o sistema abrirá uma nova tela para a criação do contato.
 
 |imagem14|
    * O sistema valida o Nome do Contato.
