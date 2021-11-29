@@ -6,5 +6,7 @@ Adicionais Sefaz
 
 |imagem37|
 
+- Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
+
 
 .. |imagem37| image:: imagens/Parceiro_Comercial_37.png
