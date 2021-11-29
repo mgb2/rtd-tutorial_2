@@ -26,6 +26,6 @@ Impressão dos Resultados
 
    <br />
 
-.. |imagem3| image:: imagens/Parceiro_Comercial_2.png
+.. |imagem2| image:: imagens/Parceiro_Comercial_2.png
 
-.. |imagem4| image:: imagens/Parceiro_Comercial_3.png
+.. |imagem3| image:: imagens/Parceiro_Comercial_3.png
