@@ -1,26 +1,22 @@
 Sefaz
-########
-- Permite informar os dados relativos ao Sefaz e a NF-e.
+#####
+- Permite informar os dados relativos ao Sefaz.
 
-|imagem30|
-|imagem31|
-|imagem37|
-
+|imagem52|
 
 .. toctree::
     :maxdepth: 2
 
-    criar_sefaz
-    editar_sefaz
-    excluir_sefaz
+    adicionar_sefaz
+    adicionar_sefaz_certificado
+    editar_sefaz_certificado
+    excluir_sefaz_certificado
+    status_sefaz_certificado
+    adicionais_sefaz
 
 
 .. |br| raw:: html
    
    <br />
 
-.. |imagem30| image:: imagens/Parceiro_Comercial_30.png
-
-.. |imagem31| image:: imagens/Parceiro_Comercial_31.png
-
-.. |imagem37| image:: imagens/Parceiro_Comercial_37.png
+.. |imagem52| image:: imagens/Parceiro_Comercial_52.png
