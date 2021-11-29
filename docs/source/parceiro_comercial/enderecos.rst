@@ -1,10 +1,9 @@
 Endereços
 #########
 - Permite vincular Endereços para o Parceiro Comercial.
+- Mostrará uma lista com os Endereços vinculados à Empresa.
 
 |imagem21|
-
-- Mostrará uma lista com os Endereços vinculados à Empresa.
 
 .. toctree::
     :maxdepth: 2
@@ -12,7 +11,6 @@ Endereços
     criar_endereco
     editar_endereco
     excluir_endereco
-
 
 .. |br| raw:: html
    
