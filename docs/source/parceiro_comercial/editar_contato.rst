@@ -1,5 +1,5 @@
 Editar Contato
-#########################
+##############
 - A tela da Edição permite alterar os dados de um Contato.
 
 - Esta tela é chamada através da Lista dos Contatos da tela Editar Parceiro Comercial.
