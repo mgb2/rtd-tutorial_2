@@ -9,22 +9,56 @@ Editar Parceiro Comercial
    - `Funções da Lista <funcoes_lista.html#section>`__
    - Após o sistema irá abrir uma nova tela com o Parceiro Comercial escolhido anteriormente.   
 
-- Exemplo da tela de Editar Parceiro Comercial.
-
+Editar
+------
 |imagem9|
 |imagem9b|
-   - Editar do Parceiro Comercial.
+   - O botão **Salvar** irá atualizar todas as modificações efetuadas.
+
+Dados Cadastrais
+----------------
+- Permite informar os dados de Cadastro da Empresa.
 
 |imagem10|
 |imagem11|
-   - Dados Cadastrais do Parceiro Comercial.
    
-|imagem12|
-   - Representante do Parceiro Comercial.
-   
+Representante
+-------------
+- Permite a escolha de um Representante da Empresa.
 
-- Botão SALVAR
-   - Somente o Status da Comissão pode ser alterado.
+|imagem12|
+
+Contatos
+--------
+- Mostrará uma lista com os Contatos vinculados à Empresa.
+
+|imagem13|
+   
+Endereços
+---------
+- Mostrará uma lista com os Endereços vinculados à Empresa.
+
+|imagem21|   
+
+Sefaz
+-----
+- Permite informar os dados relativos ao Sefaz e a NF-e.
+
+|imagem30|
+|imagem31|
+|imagem37|
+
+Documentos
+----------
+- Mostrará uma lista com os Documentos vinculados à Empresa.
+
+|imagem38|
+
+Complementar
+------------
+- Mostrará os dados Complementares da Empresa.
+
+|imagem45|
 
 
 .. toctree::
@@ -48,4 +82,14 @@ Editar Parceiro Comercial
 
 .. |imagem11| image:: imagens/Parceiro_Comercial_11.png
 
-.. |imagem11| image:: imagens/Parceiro_Comercial_12.png
+.. |imagem12| image:: imagens/Parceiro_Comercial_12.png
+
+.. |imagem13| image:: imagens/Parceiro_Comercial_13.png
+
+.. |imagem21| image:: imagens/Parceiro_Comercial_16.png
+
+.. |imagem30| image:: imagens/Parceiro_Comercial_30.png
+
+.. |imagem38| image:: imagens/Parceiro_Comercial_38.png
+
+.. |imagem45| image:: imagens/Parceiro_Comercial_45.png
