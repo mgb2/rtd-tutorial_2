@@ -12,7 +12,7 @@ Dados para Emissão de Nota Fiscal
  
  - Após preencher os dados é necessário informar um Certificado.
  - Para isso basta clicar em **Upload Certificado Digital** que o sistema abrirá o Sistema de Arquivos para que o usuário localize o Certificado.
- - Depois de informado todos os dados é só clicar em **Salvar** que a janela se fechará e a tela atualizará a Lista dos Certificados.
+ - Depois de informado todos os dados é só clicar em **Confirmar** que a janela se fechará e a tela atualizará a Lista dos Certificados.
  
  |imagem34|
 
