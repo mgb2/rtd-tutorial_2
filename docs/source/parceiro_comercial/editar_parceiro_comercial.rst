@@ -30,12 +30,6 @@ Representante
 
 |imagem12|
 
-Contatos
---------
-- Mostrará uma lista com os Contatos vinculados à Empresa.
-
-|imagem13|
-   
 Endereços
 ---------
 - Mostrará uma lista com os Endereços vinculados à Empresa.
