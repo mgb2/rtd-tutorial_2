@@ -19,7 +19,7 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
 - Os resultados serão apresentados conforme exemplo.
 
 |imagem4|
-   - `Funções da Lista <funcoes_lista.html#section>`__
+   - `Funções da Lista <parceiro_comercial_func_lista.html#section>`__
 
 
 .. toctree::
@@ -28,6 +28,7 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
    criar_parceiro_comercial
    editar_parceiro_comercial
    excluir_parceiro_comercial
+   parceiro_comercial_func_lista
 
 .. |br| raw:: html
    
