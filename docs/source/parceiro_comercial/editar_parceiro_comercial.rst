@@ -7,7 +7,7 @@ Editar Parceiro Comercial
 - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 
 |imagem5|
-   - `Funções da Lista <funcoes_lista.html#section>`__
+   - `Funções da Lista <parceiro_comercial_func_lista.html#section>`__
    - Após o sistema irá abrir uma nova tela com o Parceiro Comercial escolhido anteriormente.   
 
 Editar
@@ -65,7 +65,9 @@ Complementar
 .. toctree::
     :maxdepth: 2
 
-    contatos
+    adicionar_contatos
+    editar_contato
+    excluir_contato
     enderecos
     sefaz
     documentos
