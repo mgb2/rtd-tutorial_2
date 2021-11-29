@@ -13,7 +13,7 @@ Criar Parceiro Comercial
    * Caso não for informada Descrição ou informada menos de 2 caracteres, é exibida a mensagem.
 
 |imagem8|
-   * Após informado corretamente uma Descrição e clicado em **Confirmar**, o sistema automaticamente abrirá a tela de Editar Comissão.
+   * Após informado corretamente uma Descrição e clicado em **Confirmar**, o sistema automaticamente abrirá a tela de Editar Parceiro Comercial.
 
 .. |br| raw:: html
    
