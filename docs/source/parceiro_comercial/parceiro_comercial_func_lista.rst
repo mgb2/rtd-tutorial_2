@@ -6,7 +6,7 @@ Colunas da Lista
 - A opção Colunas da Lista permite que o usuário escolha as colunas que serão exibidas.
 - Permite também efetuar uma Pesquisa peno nome das colunas.
 
-|imagem3|
+|imagem2|
 
 Impressão dos Resultados
 ------------------------
@@ -19,7 +19,7 @@ Impressão dos Resultados
 -Imprimir:
    * Gera um Relatório.
    
-|imagem4|
+|imagem3|
 
 
 .. |br| raw:: html
