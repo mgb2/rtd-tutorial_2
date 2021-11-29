@@ -4,14 +4,11 @@ Editar Parceiro Comercial
 - Atualiza os Dados Cadastrais, Representante, Contatos, Endereços, Sefaz, Documentos e Dados Complementares.
 
 - Esta tela é chamada através da Lista dos Parceiros Comerciais exibida na tela principal do Cadastro.
-- Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
+- Para isso, basta selecionar um Parceiro Comercial da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 
 |imagem5|
    - `Funções da Lista <parceiro_comercial_func_lista.html#section>`__
    - Após o sistema irá abrir uma nova tela com o Parceiro Comercial escolhido anteriormente.   
-
-Editar
-------
 
 |imagem9|
 |imagem9b|
@@ -38,18 +35,20 @@ Complementar
    * Permite escolher o Segmento da Empresa e definir cores padrão.
 
 
-.. |br| raw:: html
-   
-   <br />
-
-
 .. toctree::
     :maxdepth: 2
 
     contatos
+       adicionar_contatos
+       editar_contato
+       excluir_contato
     enderecos
     sefaz
     documentos
+
+.. |br| raw:: html
+   
+   <br />
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 
