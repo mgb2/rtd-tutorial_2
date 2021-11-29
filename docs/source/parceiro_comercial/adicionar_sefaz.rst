@@ -1,5 +1,5 @@
-Adicionar Sefaz
-##############*
+Adicionar Dados Sefaz
+#####################
 - Cadastro com os dados do Sefaz.
 
 - Ao informar **Simples Nacional** dentro de Regime Tributário, o sistema habilitará um quadro ao qual deverão constar os dados da Tabela Simples Nacional.
