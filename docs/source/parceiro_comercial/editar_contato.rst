@@ -9,6 +9,8 @@ Editar Contato
 
 |imagem18|
    - Depois das alterações efetuadas é preciso clicar em **Salvar** e o sistema atualizará a lista da tela Editar Parceiro Comercial.
+   
+- Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
 
 
 .. |br| raw:: html
