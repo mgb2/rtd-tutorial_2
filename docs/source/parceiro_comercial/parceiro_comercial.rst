@@ -18,7 +18,7 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
    
 - Os resultados serão apresentados conforme exemplo.
 
-|imagem2|
+|imagem4|
    - `Funções da Lista <funcoes_lista.html#section>`__
 
 
@@ -33,4 +33,4 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
 
 .. |imagem1| image:: imagens/Parceiro_Comercial_1.png
 
-.. |imagem2| image:: imagens/Parceiro_Comercial_4.png
+.. |imagem4| image:: imagens/Parceiro_Comercial_4.png
