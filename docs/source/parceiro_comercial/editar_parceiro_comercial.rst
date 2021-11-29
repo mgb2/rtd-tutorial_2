@@ -35,6 +35,7 @@ Complementar
 - Mostrará os dados Complementares da Empresa.
 
 |imagem45|
+   * Permite escolher o Segmento da Empresa e definir cores padrão.
 
 
 .. |br| raw:: html
