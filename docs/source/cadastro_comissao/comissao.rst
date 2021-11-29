@@ -1,6 +1,6 @@
 Comissão
 ########
-No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadastros -> Comissão**.
+No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
