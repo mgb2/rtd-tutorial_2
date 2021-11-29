@@ -26,6 +26,8 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
    :maxdepth: 2
 
    criar_parceiro_comercial
+   editar_parceiro_comercial
+   excluir_parceiro_comercial
 
 .. |br| raw:: html
    
