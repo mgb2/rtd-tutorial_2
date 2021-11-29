@@ -25,6 +25,8 @@ Adicionar Contatos
 
 .. |imagem13| image:: imagens/Parceiro_Comercial_13.png
 
+.. |imagem14| image:: imagens/Parceiro_Comercial_14.png
+
 .. |imagem15| image:: imagens/Parceiro_Comercial_15.png
 
 .. |imagem16| image:: imagens/Parceiro_Comercial_16.png
