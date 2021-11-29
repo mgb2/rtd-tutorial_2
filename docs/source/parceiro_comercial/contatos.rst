@@ -1,10 +1,9 @@
 Contatos
 ########
 - Permite vincular Contatos para o Parceiro Comercial.
+- Mostrará uma lista com os Contatos vinculados à Empresa.
 
 |imagem13|
-
-- Mostrará uma lista com os Contatos vinculados à Empresa.
 
 .. toctree::
     :maxdepth: 2
