@@ -11,6 +11,9 @@ Status Sefaz
 
 |imagem36c|
 
+- Caso o serviço não esteja ativo, não retornará mensagem.
+
+
 .. |br| raw:: html
    
    <br />
