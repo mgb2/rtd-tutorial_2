@@ -62,12 +62,13 @@ Complementar
 
 |imagem45|
 
+Funções Atribuídas:
+-------------------
+   
 .. toctree::
     :maxdepth: 2
 
-    adicionar_contatos
-    editar_contato
-    excluir_contato
+    contatos
     enderecos
     sefaz
     documentos
