@@ -36,9 +36,12 @@ Complementar
 
 |imagem45|
 
-Funções Atribuídas:
--------------------
+
+.. |br| raw:: html
    
+   <br />
+
+
 .. toctree::
     :maxdepth: 2
 
@@ -46,10 +49,6 @@ Funções Atribuídas:
     enderecos
     sefaz
     documentos
-
-.. |br| raw:: html
-   
-   <br />
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 
