@@ -15,6 +15,6 @@ Menu Esquerda
    
    <br />
 
-.. |imagem9| image:: imagens/Menu_Superior.png
+.. |imagem9| image:: images/Menu_Superior.png
 
-.. |imagem10| image:: imagens/Menu_Esquerda.png
+.. |imagem10| image:: images/Menu_Esquerda.png
