@@ -18,6 +18,8 @@ Criar Endereço
 
 |imagem24|
 
+- Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
+
 .. toctree::
     :maxdepth: 2
 
