@@ -65,8 +65,6 @@ Complementar
     :maxdepth: 2
 
     criar_item
-    editar_item
-    excluir_item
 
 .. |br| raw:: html
    
@@ -86,9 +84,13 @@ Complementar
 
 .. |imagem13| image:: imagens/Parceiro_Comercial_13.png
 
-.. |imagem21| image:: imagens/Parceiro_Comercial_16.png
+.. |imagem21| image:: imagens/Parceiro_Comercial_21.png
 
 .. |imagem30| image:: imagens/Parceiro_Comercial_30.png
+
+.. |imagem31| image:: imagens/Parceiro_Comercial_31.png
+
+.. |imagem37| image:: imagens/Parceiro_Comercial_37.png
 
 .. |imagem38| image:: imagens/Parceiro_Comercial_38.png
 
