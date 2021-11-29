@@ -1,13 +1,18 @@
-Cadastro de Comissões
-#####################
+Parceiro Comercial
+##################
 No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadastros -> Parceiro Comercial -> Parceiro Comercial**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
 - Esta tela permite efetuar pesquisa utilizando os filtros:
-   * Número da Comissão;
-   * Descrição da Comissão;
-   * Status da Comissão.
+   * Parceiro Comercial;
+   * Bairro;
+   * Cidade;
+   * UF;
+   * CNPJ/CPF;
+   * Telefone;
+   * Tipo Parceiro Comercial;
+   * Ref. Integração.
    
 - Caso o usuário não queira informar nenhum filtro, basta clicar em **Pesquisar**.
    
@@ -16,26 +21,16 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
 |imagem2|
    - `Funções da Lista <funcoes_lista.html#section>`__
 
-   - Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
-
-|imagem11|
-   - `Funções da Lista <funcoes_lista.html#section>`__
-
 
 .. toctree::
    :maxdepth: 2
 
-   criar_comissao
-   editar_comissao
-   excluir_comissao
-   funcoes_lista
+   criar_parceiro_comercial
 
 .. |br| raw:: html
    
    <br />
 
-.. |imagem1| image:: imagens/comissao_1.png
+.. |imagem1| image:: imagens/Parceiro_Comercial_1.png
 
-.. |imagem2| image:: imagens/comissao_2.png
-
-.. |imagem11| image:: imagens/Itens_Comissao.png
+.. |imagem2| image:: imagens/Parceiro_Comercial_4.png
