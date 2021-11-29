@@ -15,6 +15,8 @@ Dados para Emissão de Nota Fiscal
  - Depois de informado todos os dados é só clicar em **Confirmar** que a janela se fechará e a tela atualizará a Lista dos Certificados.
  
  |imagem34|
+ 
+ - Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
 
 
 .. |br| raw:: html
