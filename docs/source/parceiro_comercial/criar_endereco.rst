@@ -14,15 +14,14 @@ Criar Endereço
    
   |imagem23|
 
-- Tipo de Endereço.
-   * Criar um Novo Tipo de Endereço.
-      - Para isto, basta clicar no ícone |imagem50|.
-   * Limpar o Tipo de Endereço.
-      - Para isto, basta clicar no ícone |imagem51|.
-
 - Após informado corretamente os dados do Endereço e clicado em **Salvar**, o sistema automaticamente atualizará a Lista dos Endereços.
 
 |imagem24|
+
+.. toctree::
+    :maxdepth: 2
+
+    enderecos_tipos/enderecos_tipos
 
 .. |br| raw:: html
    
