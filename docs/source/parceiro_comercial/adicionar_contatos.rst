@@ -1,5 +1,5 @@
-Adicionar Contatos
-##################
+Criar Contatos
+##############
 - Permite gerar um Contato para o Parceiro Comercial.
 
 - Essa opção é chamada através do botão **+ Adicionar Contato** da tela Editar Parceiro Comercial.
