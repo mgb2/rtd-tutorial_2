@@ -9,9 +9,9 @@ Documentos
 .. toctree::
     :maxdepth: 2
 
-    criar_documentos
-    editar_documentos
-    excluir_documentos
+    criar_documento
+    editar_documento
+    excluir_documento
 
 
 .. |br| raw:: html
