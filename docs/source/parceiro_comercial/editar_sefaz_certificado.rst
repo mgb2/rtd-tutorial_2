@@ -10,6 +10,8 @@ Editar Certificado Sefaz (Dados para Emissão de Nota Fiscal)
 |imagem36|
    - O usuário poderá alterar o Certificado, basta clicar em **Upload Certificado Digital** que o sistema abrirá o Sistema de Arquivos para que o usuário localize o Certificado.
    - Depois das alterações efetuadas é preciso clicar em **Confirmar** e o sistema atualizará a lista da tela Editar Parceiro Comercial.
+   
+- Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
 
 
 .. |br| raw:: html
