@@ -1,8 +1,7 @@
 Excluir Contato
 ###############
-- A tela da Edição permite alterar os dados de um Contato.
+- A tela Editar Parceiro Comercial permite excluir um Contato.
 
-- Esta tela é chamada através da Lista dos Contatos da tela Editar Parceiro Comercial.
 - Para isso, baste selecionar um Contato da Lista e ir até a Engrenagem situada à direita e escolher a opção **Deletar**.
 |imagem19|
    
