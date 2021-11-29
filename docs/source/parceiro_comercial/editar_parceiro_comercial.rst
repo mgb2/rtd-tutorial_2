@@ -30,20 +30,6 @@ Representante
 
 |imagem12|
 
-Sefaz
------
-- Permite informar os dados relativos ao Sefaz e a NF-e.
-
-|imagem30|
-|imagem31|
-|imagem37|
-
-Documentos
-----------
-- Mostrará uma lista com os Documentos vinculados à Empresa.
-
-|imagem38|
-
 Complementar
 ------------
 - Mostrará os dados Complementares da Empresa.
