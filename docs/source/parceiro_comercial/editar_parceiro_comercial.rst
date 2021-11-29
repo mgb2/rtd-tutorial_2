@@ -30,12 +30,6 @@ Representante
 
 |imagem12|
 
-Endereços
----------
-- Mostrará uma lista com os Endereços vinculados à Empresa.
-
-|imagem21|   
-
 Sefaz
 -----
 - Permite informar os dados relativos ao Sefaz e a NF-e.
