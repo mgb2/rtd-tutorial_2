@@ -8,19 +8,19 @@ Criar Parceiro Comercial
 
 - Após clicar no botão, o sistema irá abrir uma nova tela para a criação do cadastro.
 
-|imagem3|
+|imagem7|
    * O sistema valida a Descrição informada pelo usuário.
    * Caso não for informada Descrição ou informada menos de 2 caracteres, é exibida a mensagem.
 
-|imagem4|
+|imagem8|
    * Após informado corretamente uma Descrição e clicado em **Confirmar**, o sistema automaticamente abrirá a tela de Editar Comissão.
 
 .. |br| raw:: html
    
    <br />
 
-.. |imagem1| image:: imagens/comissao_1.png
+.. |imagem1| image:: imagens/Parceiro_Comercial_1.png
 
-.. |imagem3| image:: imagens/Criar_Comissao.png
+.. |imagem7| image:: imagens/Parceiro_Comercial_7.png
 
-.. |imagem4| image:: imagens/Criar_Comissao_2.png
+.. |imagem8| image:: imagens/Parceiro_Comercial_8.png
