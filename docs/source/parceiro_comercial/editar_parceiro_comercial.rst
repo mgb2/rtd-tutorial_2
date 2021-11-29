@@ -5,12 +5,14 @@ Editar Parceiro Comercial
 
 - Esta tela é chamada através da Lista dos Parceiros Comerciais exibida na tela principal do Cadastro.
 - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
+
 |imagem5|
    - `Funções da Lista <funcoes_lista.html#section>`__
    - Após o sistema irá abrir uma nova tela com o Parceiro Comercial escolhido anteriormente.   
 
 Editar
 ------
+
 |imagem9|
 |imagem9b|
    - O botão **Salvar** irá atualizar todas as modificações efetuadas.
@@ -60,7 +62,6 @@ Complementar
 
 |imagem45|
 
-
 .. toctree::
     :maxdepth: 2
 
@@ -68,7 +69,6 @@ Complementar
     enderecos
     sefaz
     documentos
-
 
 .. |br| raw:: html
    
