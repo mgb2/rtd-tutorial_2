@@ -64,7 +64,11 @@ Complementar
 .. toctree::
     :maxdepth: 2
 
-    criar_item
+    contatos
+    enderecos
+    sefaz
+    documentos
+
 
 .. |br| raw:: html
    
