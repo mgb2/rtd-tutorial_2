@@ -14,22 +14,19 @@ Editar Parceiro Comercial
 |imagem9b|
    - O botão **Salvar** irá atualizar todas as modificações efetuadas.
 
-Dados Cadastrais
-----------------
-- Permite informar os dados de Cadastro da Empresa.
+- **Dados Cadastrais**
+   - Permite informar os dados de Cadastro da Empresa.
 
 |imagem10|
 |imagem11|
    
-Representante
--------------
-- Permite a escolha de um Representante da Empresa.
+- **Representante**
+   - Permite a escolha de um Representante da Empresa.
 
 |imagem12|
 
-Complementar
-------------
-- Mostrará os dados Complementares da Empresa.
+- **Complementar**
+   - Mostrará os dados Complementares da Empresa.
 
 |imagem45|
    * Permite escolher o Segmento da Empresa e definir cores padrão.
@@ -39,9 +36,6 @@ Complementar
     :maxdepth: 2
 
     contatos
-       adicionar_contatos
-       editar_contato
-       excluir_contato
     enderecos
     sefaz
     documentos
