@@ -19,6 +19,8 @@ extensions = [
 
 autosectionlabel_prefix_document = True
 
+autosectionlabel_maxdepth = 2
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
