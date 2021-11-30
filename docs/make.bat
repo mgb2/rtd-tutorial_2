@@ -33,6 +33,3 @@ goto end
 
 :end
 popd
-
-set ALLSPHINXOPTS=-d %BUILDDIR%/doctrees %SPHINXOPTS%  -c . ..
-
