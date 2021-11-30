@@ -3,7 +3,9 @@ Parceiro Comercial
 No `Menu (Superior ou Esquerdo) <cadastro_comissao/menus.html#section>`__ acesse a opção **Cadastros -> Parceiro Comercial -> Parceiro Comercial**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
-:ref:`Menus:Menu Superior`
+
+
+:ref:'docs/source/menus:Menu Esquerdo'
 
 
 |imagem1|
