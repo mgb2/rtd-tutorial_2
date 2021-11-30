@@ -7,6 +7,13 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
 - teste file...
 :file:`menus/menus.rst`
 
+- teste html
+|teste|
+   
+
+.. |teste| raw:: html
+
+   <!-- #include file="menus.html" -->
 
 
 
