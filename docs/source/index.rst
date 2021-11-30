@@ -18,7 +18,6 @@ Conteúdo
 
 
 .. toctree::
-   :maxdepth: 2
 
    menus/menus
    cadastro_comissao/comissao
