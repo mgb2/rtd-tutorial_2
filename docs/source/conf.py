@@ -15,11 +15,20 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx.ext.autosectionlabel',
+    "sphinx.ext.graphviz",
+    "sphinx.ext.napoleon",
+    "sphinx.ext.todo",
+    "sphinx_js",
+    "sphinxcontrib.mermaid",
+    "recommonmark",
+    "sphinx_copybutton",
+    "sphinx_markdown_tables",
+    "sphinx_panels",    
 ]
 
 autosectionlabel_prefix_document = True
 
-autosectionlabel_maxdepth = 4
+autosectionlabel_maxdepth = 1
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -38,6 +47,10 @@ language = 'pt_BR'
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+html_show_copyright = False
+
+html_static_path = ["docs"]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
