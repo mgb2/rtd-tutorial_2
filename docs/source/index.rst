@@ -19,4 +19,4 @@ Conteúdo
 
 .. toctree::
 
-   readme_link.rst
+   readme_link
