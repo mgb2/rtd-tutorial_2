@@ -19,6 +19,7 @@ Conteúdo
 
 .. toctree::
 
+   readme_link
    menus/menus
    cadastro_comissao/comissao
    parceiro_comercial/parceiro_comercial
