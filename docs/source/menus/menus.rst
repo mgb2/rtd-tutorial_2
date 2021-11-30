@@ -1,6 +1,8 @@
 Menus de Cadastro
 #################
 
+
+.. _referencia_menu:
 Menu Superior
 =============
 
