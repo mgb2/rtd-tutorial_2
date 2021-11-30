@@ -20,6 +20,6 @@ Conteúdo
 .. toctree::
    :maxdepth: 2
 
-   menus
+   menus/menus
    cadastro_comissao/comissao
    parceiro_comercial/parceiro_comercial
