@@ -4,8 +4,8 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 
+:file:`docs/source/menus/menus.rst`
 
-:ref:`referencia_menu` Chamada Menus
 
 
 
