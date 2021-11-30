@@ -1,7 +1,7 @@
 .. include:: ../README
 
-.. include:: ../cadastro_comissao
+.. include:: ../docs/source/cadastro_comissao
 
-.. include:: ../menus
+.. include:: ../docs/source/menus
 
-.. include:: ../parceiro_comercial
+.. include:: ../docs/source/parceiro_comercial
