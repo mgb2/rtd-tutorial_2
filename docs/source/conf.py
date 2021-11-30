@@ -34,7 +34,6 @@ templates_path = ['_templates']
 # Usually you set "language" from the command line for these cases.
 language = 'pt_BR'
 
-
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
