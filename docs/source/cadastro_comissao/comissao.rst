@@ -3,21 +3,6 @@ Comissão
 No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadastros -> Comissão**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
-
-- teste file...
-:file:`menus/menus.rst`
-
-- teste html
-|teste|
-   
-
-.. |teste| raw:: html
-
-   <!-- #include file="menus.html" -->
-
-
-
-
 |imagem1|
 - Esta tela permite efetuar pesquisa utilizando os filtros:
    * Número da Comissão;
@@ -40,6 +25,7 @@ No `Menu (Superior ou Esquerdo) <menus.html#section>`__ acesse a opção **Cadas
 .. toctree::
    :maxdepth: 2
 
+   menus/menus
    criar_comissao
    editar_comissao
    excluir_comissao
