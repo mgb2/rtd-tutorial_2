@@ -16,7 +16,7 @@ Impressão dos Resultados
    * Gera uma Planilha;
 - CSV:
    * Gera uma Planilha;
--Imprimir:
+- Imprimir:
    * Gera um Relatório.
    
 |imagem3|
