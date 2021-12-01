@@ -11,6 +11,11 @@ Menu Esquerda
 
 |imagem10|
 
+.. toctree::
+   :maxdepth: 2
+
+   comissao/comissao
+
 .. |imagem9| image:: imagens/Menu_Superior.png
 
 .. |imagem10| image:: imagens/Menu_Esquerda.png
