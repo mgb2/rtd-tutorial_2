@@ -18,6 +18,5 @@ Conteúdo
 
 
 .. toctree::
-   :maxdepth: 2
-
+   :caption: Menus
    readme_link
