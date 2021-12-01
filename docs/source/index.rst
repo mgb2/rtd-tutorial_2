@@ -19,5 +19,4 @@ Conteúdo
    :maxdepth: 2
    
    menus/menus
-   menus/menus/comissao/comissao
    parceiro_comercial/parceiro_comercial
