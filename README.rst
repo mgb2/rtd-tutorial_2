@@ -1,5 +1,4 @@
-.. image:: /Produtos_29.png
-
 .. toctree::
+   :maxdepth: 2
 
    menus/menus
