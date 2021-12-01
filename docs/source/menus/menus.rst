@@ -12,7 +12,7 @@ Menus de Cadastro
 .. toctree::
    :maxdepth: 2
 
-   comissao/comissao
+   comissao/00_comissao
 
 .. |imagem9| image:: imagens/Menu_Superior.png
 
