@@ -24,7 +24,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
 .. toctree::
    :maxdepth: 2
 
-   criar_comissao
+   01_criar_comissao
    editar_comissao
    excluir_comissao
    funcoes_lista
