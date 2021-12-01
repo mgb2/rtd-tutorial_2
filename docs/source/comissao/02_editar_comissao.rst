@@ -7,7 +7,7 @@ Editar Comissão
 
 |imagem27|
    - `Funções da Lista <04_funcoes_lista_comissao.html#section>`__
-   - Após o sistema irá abrir uma nova tela com a Comissão escolhida anteriormente.   
+   - Após, o sistema abrirá uma nova tela com a Comissão escolhida anteriormente.   
 
 - Exemplo da tela de Editar Comissão sem Itens vinculados.
 
@@ -25,8 +25,6 @@ Editar Comissão
    :maxdepth: 2
     
     05_criar_novo_item
-    06_editar_item_comissao
-    07_excluir_item_comissao
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
 
