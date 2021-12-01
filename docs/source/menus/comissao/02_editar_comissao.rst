@@ -24,7 +24,7 @@ Editar Comissão
 .. toctree::
     :maxdepth: 2
 
-    criar_item
+    05_criar_novo_item
     editar_item
     excluir_item
 
