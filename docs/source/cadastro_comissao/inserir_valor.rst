@@ -17,7 +17,6 @@ Inserir Valor
 
 |imagem25|
 
-
 .. |br| raw:: html
 
    <br />
