@@ -9,14 +9,12 @@ Aqui serão demonstrados os processos de Cadastro e Operações do sistema Biz O
 Conteúdo
 --------
 
-
 .. |logo| image:: images/BizOne_logo.png
                   :height: 100px
                   :width: 200 px
                   :scale: 150 %
                   :align: middle
 
-
 .. toctree::
    :caption: Menus
-   readme_link.rst
+   readme_link
