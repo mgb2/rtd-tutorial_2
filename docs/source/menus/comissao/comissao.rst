@@ -25,7 +25,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
    :maxdepth: 2
 
    01_criar_comissao
-   editar_comissao
+   02_editar_comissao
    excluir_comissao
    funcoes_lista
 
