@@ -11,5 +11,4 @@ Excluir Valor
 
    <br />
 
-
 .. |imagem26| image:: imagens/Valor_Excluir.png
