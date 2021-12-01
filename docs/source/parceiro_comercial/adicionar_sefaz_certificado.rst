@@ -18,7 +18,6 @@ Dados para Emissão de Nota Fiscal
  
  - Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
 
-
 .. |br| raw:: html
    
    <br />
