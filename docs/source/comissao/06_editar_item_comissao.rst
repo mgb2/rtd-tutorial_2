@@ -8,7 +8,7 @@ Editar Item Comissão
 |imagem19|
    - `Funções da Lista <04_funcoes_lista_comissao.html#section>`__
 
-- Após, o sistema irá abrir uma nova janela com os dados do Item selecionado.
+- Após, o sistema abrirá uma janela com os dados do Item selecionado.
 
 - **Vigência**
 
