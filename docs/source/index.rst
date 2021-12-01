@@ -20,4 +20,4 @@ Conteúdo
 .. toctree::
    :maxdepth: 2
 
-   readme.rst
+   readme_link
