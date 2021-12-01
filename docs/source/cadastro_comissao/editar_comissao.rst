@@ -4,6 +4,7 @@ Editar Comissão
 
 - Esta tela é chamada através da Lista das Comissões exibida na tela principal do Cadastro.
 - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
+
 |imagem27|
    - `Funções da Lista <funcoes_lista.html#section>`__
    - Após o sistema irá abrir uma nova tela com a Comissão escolhida anteriormente.   
@@ -20,17 +21,12 @@ Editar Comissão
 - Botão SALVAR
    - Somente o Status da Comissão pode ser alterado.
 
-
 .. toctree::
     :maxdepth: 2
 
     criar_item
     editar_item
     excluir_item
-
-.. |br| raw:: html
-   
-   <br />
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
 
