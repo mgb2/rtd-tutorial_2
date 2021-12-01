@@ -12,7 +12,6 @@ Contatos
     editar_contato
     excluir_contato
 
-
 .. |br| raw:: html
    
    <br />
