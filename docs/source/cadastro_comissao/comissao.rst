@@ -21,7 +21,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
 |imagem11|
    - `Funções da Lista <funcoes_lista.html#section>`__
 
-
 .. toctree::
    :maxdepth: 2
 
@@ -29,7 +28,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
    editar_comissao
    excluir_comissao
    funcoes_lista
-
 
 .. |imagem1| image:: imagens/comissao_1.png
 
