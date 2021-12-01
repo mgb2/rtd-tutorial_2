@@ -16,6 +16,6 @@ Conteúdo
                   :align: middle
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    
    menus/menus
