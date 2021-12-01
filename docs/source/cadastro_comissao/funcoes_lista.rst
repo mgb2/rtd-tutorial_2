@@ -21,7 +21,6 @@ Impressão dos Resultados
    
 |imagem7|
 
-
 .. |br| raw:: html
 
    <br />
