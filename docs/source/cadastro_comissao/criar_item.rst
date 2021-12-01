@@ -30,6 +30,8 @@ Criar Novo Item
    * **Valores da Comissão** 
       + *Observações:* Os valores apenas serão inseridos no Item após a criação do mesmo.
 
+|br|
+
 - Após informados os dados relativos ao Item e clicado em **Confirmar**, o sistema fechará a janela da inserção e atualizará a página da Edição da Comissão e mostrará uma Lista com os seus respectivos Itens.
 
 |imagem17|
