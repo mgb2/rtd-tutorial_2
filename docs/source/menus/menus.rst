@@ -1,13 +1,11 @@
 Menus de Cadastro
 #################
 
-Menu Superior
-=============
+- **Menu Superior**
 
 |imagem9|
 
-Menu Esquerda
-=============
+- **Menu Esquerda**
 
 |imagem10|
 
