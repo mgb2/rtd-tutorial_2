@@ -40,10 +40,6 @@ Editar Item Comissão
     09_editar_valor_item_comissao
     10_excluir_valor_item_comissao
 
-.. |br| raw:: html
-
-   <br />
-
 .. |imagem16| image:: imagens/Item_Valores.png
 
 .. |imagem19| image:: imagens/Editar_Comissao_Itens_2.png
