@@ -27,7 +27,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
    01_criar_comissao
    02_editar_comissao
    03_excluir_comissao
-   funcoes_lista
+   04_funcoes_lista_comissao
 
 .. |imagem1| image:: imagens/comissao_1.png
 
