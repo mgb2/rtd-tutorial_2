@@ -12,7 +12,6 @@ Excluir Comissão
 - Caso o sistema verifique que a Vigência da Comissão está ativa, informará um erro ao usuário.
 |imagem18|
 
-
 .. |br| raw:: html
 
    <br />
