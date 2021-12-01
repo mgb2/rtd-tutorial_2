@@ -1,7 +1,2 @@
-.. include:: ../README
-
-.. include:: ../docs/source/cadastro_comissao
-
-.. include:: ../docs/source/menus
-
-.. include:: ../docs/source/parceiro_comercial
+.. include:: ../../README.rst
+  :start-after: inclusion-marker-do-not-remove
