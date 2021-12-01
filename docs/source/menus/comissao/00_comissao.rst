@@ -26,9 +26,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
 
    01_criar_comissao
    02_editar_comissao
-      08_inserir_valor_item_comissao
-      09_editar_valor_item_comissao
-      10_excluir_valor_item_comissao
    03_excluir_comissao
    04_funcoes_lista_comissao
 
