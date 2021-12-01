@@ -24,7 +24,6 @@ Adicionar Dados Sefaz
    excluir_sefaz_certificado
    status_sefaz_certificado
 
-
 .. |br| raw:: html
    
    <br />
