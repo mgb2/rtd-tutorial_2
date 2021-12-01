@@ -10,6 +10,7 @@ Criar Novo Item
 |imagem12|
    * A Data Início da Vigência é obrigatória.
  
+ |br|
  
    * **Características**
    
@@ -18,11 +19,13 @@ Criar Novo Item
 
 |imagem15|
  
+ |br|
  
    * **Parceiro Comercial**
    
 |imagem14|
 
+|br|
 
    * **Valores da Comissão** 
       + *Observações:* Os valores apenas serão inseridos no Item após a criação do mesmo.
@@ -31,7 +34,6 @@ Criar Novo Item
 
 |imagem17|
    - `Funções da Lista <funcoes_lista.html#section>`__
-
 
 .. |br| raw:: html
 
