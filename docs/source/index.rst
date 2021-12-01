@@ -19,4 +19,4 @@ Conteúdo
 
 .. toctree::
    :caption: Menus
-   readme_link
+   readme_link.rst
