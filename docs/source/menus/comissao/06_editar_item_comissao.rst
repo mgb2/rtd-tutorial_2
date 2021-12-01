@@ -36,9 +36,9 @@ Editar Item Comissão
 .. toctree::
     :maxdepth: 2
 
-    inserir_valor
-    editar_valor
-    excluir_valor
+    08_inserir_valor_item._comissao
+    09_editar_valor_item_comissao
+    10_excluir_valor_item_comissao
 
 .. |br| raw:: html
 
