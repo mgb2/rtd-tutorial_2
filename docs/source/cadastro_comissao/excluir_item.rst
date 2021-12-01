@@ -13,11 +13,9 @@ Excluir Item Comissão
    
 |imagem24|
 
-
 .. |br| raw:: html
 
    <br />
-
 
 .. |imagem19| image:: imagens/Item_Excluir.png
 
