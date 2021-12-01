@@ -13,7 +13,6 @@ Editar Valor
 |imagem27|
    * Após alterados os dados e ao clicar em **Confirmar**, o sistema fechará a janela de Edição e a tela dos Valores da Comissão será atualizada.
 
-
 .. |br| raw:: html
 
    <br />
