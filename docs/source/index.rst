@@ -16,5 +16,6 @@ Conteúdo
                   :align: middle
 
 .. toctree::
-   :caption: Menus
-   readme_link
+   :maxdepyh: 2
+   
+   menus/menus
