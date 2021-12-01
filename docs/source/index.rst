@@ -19,3 +19,4 @@ Conteúdo
    :maxdepth: 2
    
    menus/menus
+   parceiro_comercial/parceiro_comercial
