@@ -30,9 +30,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
    excluir_comissao
    funcoes_lista
 
-.. |br| raw:: html
-   
-   <br />
 
 .. |imagem1| image:: imagens/comissao_1.png
 
