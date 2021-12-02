@@ -36,7 +36,9 @@ Editar Item Comissão
 .. toctree::
     :maxdepth: 2
 
-    teste
+    criar_valor
+    editar_valor
+    excluir_valor
 
 .. |imagem16| image:: imagens/Item_Valores.png
 
