@@ -12,6 +12,7 @@ Produtos
    :maxdepth: 2
 
    produtos/produtos
+   refderencia/referencia
 
 .. |imagem1| image:: imagens/Menu_Produtos_1.png
 
