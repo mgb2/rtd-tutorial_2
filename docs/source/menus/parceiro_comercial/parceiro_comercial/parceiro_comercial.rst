@@ -21,7 +21,6 @@ Parceiro Comercial
 |imagem4|
    - `Funções da Lista <lista_parceiro_comercial.html#section>`__
 
-
 .. toctree::
    :maxdepth: 2
 
@@ -29,10 +28,6 @@ Parceiro Comercial
    editar_parceiro_comercial
    excluir_parceiro_comercial
    lista_parceiro_comercial
-
-.. |br| raw:: html
-   
-   <br />
 
 .. |imagem1| image:: imagens/Parceiro_Comercial_1.png
 
