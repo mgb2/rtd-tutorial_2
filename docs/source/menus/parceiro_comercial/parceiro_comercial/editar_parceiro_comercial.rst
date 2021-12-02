@@ -36,6 +36,8 @@ Editar Parceiro Comercial
 
     contatos/contatos
     enderecos/enderecos
+    sefaz/sefaz
+    documentos/documentos
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 
