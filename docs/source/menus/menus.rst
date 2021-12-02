@@ -12,8 +12,9 @@ Menus de Cadastro
 .. toctree::
    :maxdepth: 2
 
-   comissao/comissao
    parceiro_comercial/menu_parceiro_comercial
+   produtos/menu_produtos
+   comissao/comissao
 
 .. |imagem9| image:: imagens/Menu_Superior.png
 
