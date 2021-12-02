@@ -8,7 +8,7 @@ Contatos
 .. toctree::
     :maxdepth: 2
 
-    criar_contatos
+    criar_contato
     editar_contato
     excluir_contato
 
