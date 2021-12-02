@@ -12,6 +12,7 @@ Parceiro Comercial
    :maxdepth: 2
 
    parceiro_comercial/parceiro_comercial
+   grupos/grupos
 
 .. |imagem55| image:: imagens/Parceiro_Comercial_55.png
 
