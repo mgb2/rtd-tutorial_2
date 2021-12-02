@@ -1,5 +1,5 @@
-Funções Lista Comissão
-######################
+Funções Lista
+#############
 
 Colunas da Lista
 ----------------
