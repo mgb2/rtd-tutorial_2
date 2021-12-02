@@ -35,6 +35,7 @@ Editar Parceiro Comercial
     :maxdepth: 2
 
     contatos/contatos
+    enderecos/enderecos
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 
