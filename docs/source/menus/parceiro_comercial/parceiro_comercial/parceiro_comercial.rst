@@ -1,7 +1,7 @@
 Parceiro Comercial
 ##################
 - No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Parceiro Comercial -> Parceiro Comercial**.
-   * O sistema irá apresentar uma tela conforme exemplo abaixo.
+   * O sistema irá apresentar uma tela conforme exemplo.
 
 |imagem1|
 - Esta tela permite efetuar pesquisa utilizando os filtros:
