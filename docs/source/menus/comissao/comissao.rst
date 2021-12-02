@@ -14,20 +14,20 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
 - Os resultados serão apresentados conforme exemplo.
 
 |imagem2|
-   - `Funções da Lista <04_funcoes_lista_comissao.html#section>`__
+   - `Funções da Lista <lista_comissao.html#section>`__
 
    - Ao selecionar uma Comissão da Lista, o sistema automaticamente irá exibir os Itens desta Comissão, caso houver.
 
 |imagem11|
-   - `Funções da Lista <04_funcoes_lista_comissao.html#section>`__
+   - `Funções da Lista <lista_comissao.html#section>`__
 
 .. toctree::
    :maxdepth: 2
 
-   01_criar_comissao
-   02_editar_comissao
-   03_excluir_comissao
-   04_funcoes_lista_comissao
+   criar_comissao
+   editar_comissao
+   excluir_comissao
+   lista_comissao
 
 .. |imagem1| image:: imagens/comissao_1.png
 
