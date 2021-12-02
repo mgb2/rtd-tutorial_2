@@ -24,7 +24,10 @@ Editar Comissão
 .. toctree::
    :maxdepth: 2
     
-   teste 
+   teste
+   criar_item
+   editar_item
+   excluir_item
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
 
