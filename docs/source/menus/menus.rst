@@ -13,7 +13,7 @@ Menus de Cadastro
    :maxdepth: 2
 
    parceiro_comercial/menu_parceiro_comercial
-   produtos/menu_produtos
+   produtos/menus_produtos
    comissao/comissao
 
 .. |imagem9| image:: imagens/Menu_Superior.png
