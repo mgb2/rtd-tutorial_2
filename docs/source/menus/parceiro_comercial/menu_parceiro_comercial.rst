@@ -13,6 +13,7 @@ Parceiro Comercial
 
    parceiro_comercial/parceiro_comercial
    grupos/grupos
+   enderecos_tipos/enderecos_tipos
 
 .. |imagem55| image:: imagens/Parceiro_Comercial_55.png
 
