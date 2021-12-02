@@ -36,6 +36,10 @@ Criar Novo Item
 
 |imagem17|
    - `Funções da Lista <lista_comissao.html#section>`__
+   
+.. |br| raw:: html
+   
+   <br />
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
 
