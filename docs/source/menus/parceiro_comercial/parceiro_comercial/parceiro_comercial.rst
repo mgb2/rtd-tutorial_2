@@ -1,13 +1,39 @@
 Parceiro Comercial
 ##################
-- Menu (Superior ou Esquerdo) do Parceiro Comercial
+- No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Parceiro Comercial -> Parceiro Comercial**.
+   * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
-|imagem55|
+|imagem1|
+- Esta tela permite efetuar pesquisa utilizando os filtros:
+   * Parceiro Comercial;
+   * Bairro;
+   * Cidade;
+   * UF;
+   * CNPJ/CPF;
+   * Telefone;
+   * Tipo Parceiro Comercial;
+   * Ref. Integração.
+   
+- Caso o usuário não queira informar nenhum filtro, basta clicar em **Pesquisar**.
+   
+- Os resultados serão apresentados conforme exemplo.
 
-ou
+|imagem4|
+   - `Funções da Lista <lista_parceiro_comercial.html#section>`__
 
-|imagem56|
 
-.. |imagem55| image:: imagens/Parceiro_Comercial_55.png
+.. toctree::
+   :maxdepth: 2
 
-.. |imagem56| image:: imagens/Parceiro_Comercial_56.png
+   criar_parceiro_comercial
+   editar_parceiro_comercial
+   excluir_parceiro_comercial
+   lista_parceiro_comercial
+
+.. |br| raw:: html
+   
+   <br />
+
+.. |imagem1| image:: imagens/Parceiro_Comercial_1.png
+
+.. |imagem4| image:: imagens/Parceiro_Comercial_4.png
