@@ -20,12 +20,12 @@ Editar Comissão
 
 - Botão SALVAR
    - Somente o Status da Comissão pode ser alterado.
-   - A Descrição é fixa.
 
 .. toctree::
    :maxdepth: 2
     
     criar_item    
+ 
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
 
