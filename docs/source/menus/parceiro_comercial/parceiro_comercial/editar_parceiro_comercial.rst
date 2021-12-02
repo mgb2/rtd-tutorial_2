@@ -34,10 +34,7 @@ Editar Parceiro Comercial
 .. toctree::
     :maxdepth: 2
 
-    contatos
-    enderecos
-    sefaz
-    documentos
+    contatos/contatos
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 
