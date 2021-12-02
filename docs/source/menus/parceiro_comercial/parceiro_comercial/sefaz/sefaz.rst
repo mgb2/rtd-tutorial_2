@@ -7,8 +7,8 @@ Sefaz
 .. toctree::
     :maxdepth: 2
 
-    adicionar_sefaz
-    adicionar_sefaz_certificado
+    criar_sefaz
+    criar_sefaz_certificado
     editar_sefaz_certificado
     excluir_sefaz_certificado
     status_sefaz_certificado
