@@ -19,4 +19,4 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> C
 
 .. |imagem1| image:: imagens/CFOP_1.png
 
-.. |imagem1| image:: imagens/CFOP_2.png
+.. |imagem2| image:: imagens/CFOP_2.png
