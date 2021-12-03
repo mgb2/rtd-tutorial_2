@@ -1,6 +1,6 @@
 Produtos
 ########
-- No Menu (Superior ou Esquerdo) acesse a opção **Produtos -> Produtos**.
+- No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Produtos -> Produtos**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
@@ -34,7 +34,7 @@ Produtos
    
 - Os resultados serão apresentados conforme exemplo.
 
-|imagem2|
+|imagem4|
    - `Funções da Lista <lista_produtos.html#section>`__
 
 .. toctree::
@@ -47,4 +47,4 @@ Produtos
 
 .. |imagem1| image:: imagens/Produtos_1.png
 
-.. |imagem2| image:: imagens/Produtos_2.png
+.. |imagem4| image:: imagens/Produtos_4.png

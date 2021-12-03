@@ -1,6 +1,6 @@
 Referência
 ##########
-- No Menu (Superior ou Esquerdo) acesse a opção **Produtos -> Referência**.
+- No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Produtos -> Referência**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|

@@ -4,7 +4,6 @@ Grupos
    * O sistema irá apresentar uma tela conforme exemplo.
 
 |imagem1|
-   - `Funções da Lista <lista_parceiro_comercial.html#section>`__
 
 .. toctree::
    :maxdepth: 2
