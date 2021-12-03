@@ -4,7 +4,7 @@
 
 Bem Vindo à documentação do Biz One!
 ====================================
-Aqui serão demonstrados os processos de Cadastro e Operações do sistema Biz One.
+Aqui serão demonstrados os processos de Cadastro e Operações do Sistema Biz One.
 
 Conteúdo
 --------
