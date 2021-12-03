@@ -31,7 +31,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Preços -> Preço
    criar_precos
    editar_precos
    excluir_precos
-   lista_precos
 
 .. |imagem1| image:: imagens/Precos_1.png
 
