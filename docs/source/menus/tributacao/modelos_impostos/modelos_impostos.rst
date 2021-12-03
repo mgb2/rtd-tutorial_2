@@ -18,4 +18,4 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> M
 
 .. |imagem1| image:: imagens/Modelos_Impostos_1.png
 
-.. |imagem1| image:: imagens/Modelos_Impostos_2.png
+.. |imagem2| image:: imagens/Modelos_Impostos_2.png
