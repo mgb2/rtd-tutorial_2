@@ -1,5 +1,5 @@
-Dados para Emissão de Nota Fiscal
-#################################
+Adicionar Certificado
+#####################
 - Definição dos dados relativos a Ambiente, Serviço, Segurança e Certificado.
 
 - Esta opção é chamada através do botão **Adicionar** dentro da Aba Adicionar do Sefaz na tela Editar Parceiro Comercial.

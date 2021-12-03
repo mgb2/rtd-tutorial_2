@@ -8,10 +8,6 @@ Sefaz
     :maxdepth: 2
 
     criar_sefaz
-    criar_sefaz_certificado
-    editar_sefaz_certificado
-    excluir_sefaz_certificado
-    status_sefaz_certificado
     adicionais_sefaz
 
 .. |imagem52| image:: imagens/Parceiro_Comercial_52.png

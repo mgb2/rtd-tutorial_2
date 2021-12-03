@@ -1,5 +1,5 @@
-Editar Certificado Sefaz (Dados para Emissão de Nota Fiscal)
-############################################################
+Editar Certificado Sefaz
+########################
 - A tela da Edição permite alterar os dados do Certificado.
 
 - Esta tela é chamada através da Lista dos Certificados do Sefaz da tela Editar Parceiro Comercial.

@@ -3,7 +3,7 @@ Referência
 - No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Produtos -> Referência**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
-|imagem1|
+|imagem1a|
 - Esta tela permite efetuar pesquisa utilizando os filtros:
    * Referência;
    * Referência Pai;
@@ -23,8 +23,8 @@ Referência
    
 - Os resultados serão apresentados conforme exemplo.
 
-|imagem2|
-   - `Funções da Lista <lista_produtos.html#section>`__
+|imagem1|
+   - `Funções da Lista <lista_referencia.html#section>`__
 
 .. toctree::
    :maxdepth: 2
@@ -32,7 +32,8 @@ Referência
    criar_referencia
    editar_referencia
    excluir_referencia
+   lista_referencia
+
+.. |imagem1a| image:: imagens/Referencias_1a.png
 
 .. |imagem1| image:: imagens/Referencias_1.png
-
-.. |imagem2| image:: imagens/Referencias_2.png
