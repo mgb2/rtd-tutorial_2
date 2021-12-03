@@ -1,12 +1,13 @@
-Usu·rios
+Usu√°rios
 ########
-- Menu (Superior): **Cadastros -> Usu·rios**
+- Menu (Superior): **Cadastros -> Usu√°rios**
 
 |imagem1|
 
-- Menu (Esquerdo): **Cadastros -> Usu·rios**
+- Menu (Esquerdo): **Cadastros -> Usu√°rios**
 
 |imagem2|
+
 
 .. toctree::
    :maxdepth: 2
