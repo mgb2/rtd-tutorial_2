@@ -10,8 +10,6 @@ Excluir Parceiro Comercial
 |imagem20|
    - Depois de clicado em **Deletar** o sistema atualizará a lista da tela Editar Parceiro Comercial.
 
-- Após as alterações efetuadas, basta clicar no botão Salvar da tela Editar Parceiro Comercial.
-
 .. toctree::
     :maxdepth: 2
 

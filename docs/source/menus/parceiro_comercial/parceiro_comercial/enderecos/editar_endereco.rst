@@ -9,10 +9,10 @@ Editar Endereço
    - Após o sistema irá abrir uma nova tela com o Endereço escolhido anteriormente.   
 
 |imagem26|
- - Depois das alterações efetuadas é preciso clicar em **Salvar** e o sistema atualizará a lista da tela Editar Parceiro Comercial.
+   - Essa tela permite o usuário informar um Novo Tipo de Endereço.
+   - Depois das alterações efetuadas é preciso clicar em **Salvar** e o sistema atualizará a lista da tela Editar Parceiro Comercial.
  
- - Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
- 
+- Após as alterações efetuadas, basta clicar no botão **Salvar** da tela Editar Parceiro Comercial.
 
 .. toctree::
     :maxdepth: 2

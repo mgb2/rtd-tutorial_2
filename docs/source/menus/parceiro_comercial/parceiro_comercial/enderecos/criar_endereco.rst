@@ -9,6 +9,7 @@ Criar Endereço
 - Após o sistema abrirá uma nova tela para inserir os dados do endereço.
 
 |imagem22|
+   * Essa tela permite o usuário informar um Novo Tipo de Endereço.
    * O sistema valida a Descrição do Endereço.
    * Caso não for informado, é exibida a mensagem.
    

@@ -4,6 +4,10 @@ Endereços Tipos
    * O sistema irá apresentar uma tela conforme exemplo.
 
 |imagem1|
+   * Tela sem nenhum tipo de endereço cadastrado.
+
+|imagem4|
+   - Tela com tipos de endereços cadastrados.
 
 .. toctree::
    :maxdepth: 2
@@ -14,3 +18,5 @@ Endereços Tipos
    lista_endereco_tipo
 
 .. |imagem1| image:: imagens/Enderecos_Tipos_1.png
+
+.. |imagem4| image:: imagens/Enderecos_Tipos_4.png

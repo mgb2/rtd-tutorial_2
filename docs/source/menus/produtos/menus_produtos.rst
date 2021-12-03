@@ -14,7 +14,7 @@ Produtos
    produtos/produtos
    referencia/referencia
    origem_produto/origem_produto
-   composicao_composicao
+   composicao/composicao
    cuidados/cuidados
    tamanho/tamanho
    cor/cor
