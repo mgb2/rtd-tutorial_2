@@ -5,7 +5,19 @@ Referência
 
 |imagem1|
 - Esta tela permite efetuar pesquisa utilizando os filtros:
-   * 
+   * Referência;
+   * Referência Pai;
+   * Código de Barras;
+   * Linha;
+   * Departamento;
+   * Seção;
+   * Subseção;
+   * Fronecedor;
+   * Referência Fornecedor;
+   * Referência Integração;
+   * NCM;
+   * Data Cadastro;
+   * EAN.
    
 - Caso o usuário não queira informar nenhum filtro, basta clicar em **Pesquisar**.
    
@@ -17,11 +29,10 @@ Referência
 .. toctree::
    :maxdepth: 2
 
-   criar_produto
-   editar_produto
-   excluir_produto
-   lista_produto
+   criar_referencia
+   editar_referencia
+   excluir_referencia
 
-.. |imagem1| image:: imagens/Produtos_1.png
+.. |imagem1| image:: imagens/Referencias_1.png
 
-.. |imagem2| image:: imagens/Produtos_2.png
+.. |imagem2| image:: imagens/Referencias_2.png
