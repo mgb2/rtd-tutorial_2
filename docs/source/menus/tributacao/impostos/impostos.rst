@@ -16,7 +16,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> I
    criar_impostos
    editar_impostos
    excluir_impostos
-   lista_impostos
 
 .. |imagem1| image:: imagens/Impostos_1.png
 
