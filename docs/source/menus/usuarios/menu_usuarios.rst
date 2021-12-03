@@ -8,7 +8,6 @@ Usuários
 
 |imagem2|
 
-
 .. toctree::
    :maxdepth: 2
 
