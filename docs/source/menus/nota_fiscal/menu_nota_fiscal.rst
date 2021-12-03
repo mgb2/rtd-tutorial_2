@@ -14,6 +14,6 @@ Nota Fiscal
    modelos/modelos
    servicos/servicos
 
-.. |imagem1| image:: imagens/Menu_Nota_Fiscal_1.png
+.. |imagem1| image:: imagens/Menu_NF_1.png
 
-.. |imagem2| image:: imagens/Menu_Nota_Fiscal_1.png
+.. |imagem2| image:: imagens/Menu_NF_2.png

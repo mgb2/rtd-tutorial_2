@@ -8,14 +8,14 @@ Endereços Tipos
 
 |imagem4|
    - Tela com tipos de endereços cadastrados.
+   - `Funções da Lista <lista_enderecos_tipos.html#section>`__
 
 .. toctree::
    :maxdepth: 2
 
-   criar_endereco_tipo
-   editar_endereco_tipo
-   excluir_endereco_tipo
-   lista_endereco_tipo
+   criar_enderecos_tipos
+   editar_enderecos_tipos
+   excluir_enderecos_tipos
 
 .. |imagem1| image:: imagens/Enderecos_Tipos_1.png
 

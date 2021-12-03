@@ -1,5 +1,5 @@
-Cuidados do Produto
-###################
+Cuidados
+########
 - No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Produtos -> Cuidados**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
@@ -16,7 +16,6 @@ Cuidados do Produto
    criar_cuidados
    editar_cuidados
    excluir_cuidados
-   lista_cuidados
 
 .. |imagem0| image:: imagens/Cuidados_0.png
 

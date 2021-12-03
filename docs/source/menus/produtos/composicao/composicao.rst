@@ -1,5 +1,5 @@
-Composição do Produto
-#####################
+Composição
+##########
 - No Menu (Superior ou Esquerdo) acesse a opção **Produtos -> Composição**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
@@ -16,7 +16,6 @@ Composição do Produto
    criar_composicao
    editar_composicao
    excluir_composicao
-   lista_composicao
 
 .. |imagem0| image:: imagens/Composicao_0.png
 

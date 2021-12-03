@@ -1,5 +1,5 @@
-Código da Situação Tributária (CST)
-###################################
+CST
+###
 No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> CST**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 

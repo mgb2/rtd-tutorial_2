@@ -4,13 +4,13 @@
     "\\docs",
     "\\docs\\source",
     "\\docs\\source\\menus",
-    "\\docs\\source\\menus\\parceiro_comercial",
-    "\\docs\\source\\menus\\parceiro_comercial\\enderecos_tipos\\imagens",
-    "\\docs\\source\\menus\\parceiro_comercial\\grupos",
     "\\docs\\source\\menus\\produtos",
-    "\\docs\\source\\menus\\produtos\\composicao",
-    "\\docs\\source\\menus\\produtos\\cuidados"
+    "\\docs\\source\\menus\\produtos\\cor",
+    "\\docs\\source\\menus\\produtos\\referencia",
+    "\\docs\\source\\menus\\usuarios",
+    "\\docs\\source\\menus\\usuarios\\grupos_usuarios",
+    "\\docs\\source\\menus\\usuarios\\turnos"
   ],
-  "SelectedNode": "\\docs\\source\\menus\\parceiro_comercial\\grupos\\grupos.rst",
+  "SelectedNode": "\\docs\\source\\menus\\produtos\\cor\\cor.rst",
   "PreviewInSolutionExplorer": false
 }

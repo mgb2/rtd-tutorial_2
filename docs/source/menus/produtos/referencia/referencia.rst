@@ -32,7 +32,6 @@ Referência
    criar_referencia
    editar_referencia
    excluir_referencia
-   lista_referencia
 
 .. |imagem1a| image:: imagens/Referencias_1a.png
 

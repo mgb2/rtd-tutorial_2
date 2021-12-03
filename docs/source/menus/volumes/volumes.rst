@@ -43,7 +43,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Volumes**.
    criar_volumes
    editar_volumes
    excluir_volumes
-   lista_volumes
 
 .. |imagem1| image:: imagens/Volumes_1.png
 

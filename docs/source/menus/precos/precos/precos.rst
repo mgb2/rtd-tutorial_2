@@ -1,5 +1,5 @@
-Preço
-#####
+Preços
+######
 No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Preços -> Preços**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
@@ -23,7 +23,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Preços -> Preço
 - Os resultados serão apresentados conforme exemplo.
 
 |imagem2|
-   - `Funções da Lista <lista_preco.html#section>`__
+   - `Funções da Lista <lista_precos.html#section>`__
 
 .. toctree::
    :maxdepth: 2

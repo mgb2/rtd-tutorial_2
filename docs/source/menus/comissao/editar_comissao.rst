@@ -16,7 +16,7 @@ Editar Comissão
 - Exemplo da tela de Editar Comissões com uma Lista de Itens vinculados.
 
 |imagem17|
-   - `Funções da Lista <lista_comissao.html#section>`__
+   - `Funções da Lista <lista_itens.html#section>`__
 
 - Botão SALVAR
    - Somente o Status da Comissão pode ser alterado.

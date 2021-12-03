@@ -22,7 +22,6 @@ Usuários
    criar_usuarios
    editar_usuarios
    excluir_usuarios
-   lista_usuarios
 
 .. |imagem1| image:: imagens/Usuarios_1.png
 

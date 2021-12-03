@@ -14,6 +14,6 @@ Preços
    precos/precos
    promocoes/promocoes
 
-.. |imagem1| image:: imagens/Menu_precos_1.png
+.. |imagem1| image:: imagens/Menu_Precos_1.png
 
-.. |imagem2| image:: imagens/Menu_precos_2.png
+.. |imagem2| image:: imagens/Menu_Precos_2.png

@@ -4,7 +4,7 @@ Excluir Item Comissão
 - Para isso, baste selecionar um Item da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir Item Comissão**.
 
 |imagem19|
-   - `Funções da Lista <lista_comissao.html#section>`__
+   - `Funções da Lista <lista_itens.html#section>`__
    - Após, o sistema irá atualizar automaticamente a tela da Edição da Comissão.   
 
 - O sistema permite Excluir o Item da Comissão desde que **NÃO** esteja em Período de Vigência Ativo.
