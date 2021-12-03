@@ -1,12 +1,13 @@
-TributaÁ„o
+Tributa√ß√£o
 ##########
-- Menu (Superior): **Cadastros -> TributaÁ„o**
+- Menu (Superior): **Cadastros -> Tributa√ß√£o**
 
 |imagem1|
 
-- Menu (Esquerdo): **Cadastros -> TributaÁ„o**
+- Menu (Esquerdo): **Cadastros -> Tributa√ß√£o**
 
 |imagem2|
+
 
 .. toctree::
    :maxdepth: 2
