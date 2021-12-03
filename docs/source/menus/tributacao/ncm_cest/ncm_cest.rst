@@ -1,9 +1,13 @@
-Códigos CEST
-############
+NCM/CEST
+########
 No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> NCM/CEST**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
+   * Tela sem nenhum ncm/cest cadastrado.
+
+|imagem2|
+   - Tela com ncm/cest cadastrados.
    - `Funções da Lista <lista_ncm_cest.html#section>`__
 
 .. toctree::
@@ -14,3 +18,5 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> N
    excluir_ncm_cest
 
 .. |imagem1| image:: imagens/NCM_CEST_1.png
+
+.. |imagem2| image:: imagens/NCM_CEST_2.png

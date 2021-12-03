@@ -8,6 +8,7 @@ Grupos
 
 |imagem4|
    - Tela com grupos cadastrados.
+   - `Funções da Lista <lista_grupo.html#section>`__
 
 .. toctree::
    :maxdepth: 2
@@ -15,7 +16,6 @@ Grupos
    criar_grupo
    editar_grupo
    excluir_grupo
-   lista_grupo
 
 .. |imagem1| image:: imagens/Grupos_1.png
 

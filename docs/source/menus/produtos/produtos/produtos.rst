@@ -43,7 +43,6 @@ Produtos
    criar_produto
    editar_produto
    excluir_produto
-   lista_produto
 
 .. |imagem1| image:: imagens/Produtos_1.png
 

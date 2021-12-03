@@ -4,7 +4,7 @@ Excluir Comissão
 - Para isso, baste selecionar uma Comissão da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir**.
 
 |imagem8|
-   * `Funções da Lista <funcoes_lista.html#section>`__
+   * `Funções da Lista <lista_comissao.html#section>`__
    * Após excluída uma Comissão, a lista automaticamente será atualizada.
    
 - O sistema permite Excluir a Comissão desde que **NÃO** esteja em Período de Vigência Ativo.

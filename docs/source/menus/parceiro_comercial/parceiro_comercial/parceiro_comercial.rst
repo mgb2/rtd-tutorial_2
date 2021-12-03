@@ -27,7 +27,6 @@ Parceiro Comercial
    criar_parceiro_comercial
    editar_parceiro_comercial
    excluir_parceiro_comercial
-   lista_parceiro_comercial
 
 .. |imagem1| image:: imagens/Parceiro_Comercial_1.png
 

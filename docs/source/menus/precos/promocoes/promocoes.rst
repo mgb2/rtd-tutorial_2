@@ -26,8 +26,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Preços -> Promo�
    criar_promocoes
    editar_promocoes
    excluir_promocoes
-   lista_promocoes
 
 .. |imagem1| image:: imagens/Promocoes_1.png
 
-.. |imagem2| image:: imagens/Promocoes_1.png
+.. |imagem2| image:: imagens/Promocoes_2.png

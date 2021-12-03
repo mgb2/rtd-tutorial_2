@@ -18,6 +18,7 @@ Tributação
    cst_csosn/cst_csosn
    ncm_cest/ncm_cest
    simples_nacional/simples_nacional
+   ibpt/ibpt
    modelos_impostos/modelos_impostos
    impostos/impostos
    enquadramento_ncm/enquadramento_ncm
