@@ -4,7 +4,7 @@ Excluir Parceiro Comercial
 - Para isso, basta selecionar um Parceiro Comercial da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir**.
 
 |imagem6|
-   - `Funções da Lista <parceiro_comercial_func_lista.html#section>`__
+   - `Funções da Lista <lista_parceiro_comercial.html#section>`__
    - Após escolhido a Empresa o sistema irá questionar o usuário quanto ao registro.
 
 |imagem20|
