@@ -1,10 +1,10 @@
 Produtos
 ########
-- Menu (Superior) do Produtos
+- Menu (Superior): **Cadastros -> Produtos**
 
 |imagem1|
 
-- Menu (Esquerdo) do Produtos
+- Menu (Esquerdo): **Cadastros -> Produtos**
 
 |imagem2|
 

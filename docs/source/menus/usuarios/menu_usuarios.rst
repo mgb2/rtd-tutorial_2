@@ -1,10 +1,10 @@
 Usuários
 ########
-- Menu (Superior) do Parceiro Comercial
+- Menu (Superior): **Cadastros -> Usuários**
 
 |imagem1|
 
-- Menu (Esquerdo) do Parceiro Comercial
+- Menu (Esquerdo): **Cadastros -> Usuários**
 
 |imagem2|
 
@@ -15,6 +15,6 @@ Usuários
    grupos_usuarios/grupos_usuarios
    turnos/turnos
 
-.. |imagem1| image:: imagens/Usuarios_1.png
+.. |imagem1| image:: imagens/Menu_Usuarios_1.png
 
-.. |imagem2| image:: imagens/Usuarios_2.png
+.. |imagem2| image:: imagens/Menu_Usuarios_2.png

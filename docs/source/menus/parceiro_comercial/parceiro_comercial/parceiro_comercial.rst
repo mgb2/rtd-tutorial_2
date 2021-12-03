@@ -12,7 +12,7 @@ Parceiro Comercial
    * CNPJ/CPF;
    * Telefone;
    * Tipo Parceiro Comercial;
-   * Ref. Integração.
+   * Referência Integração.
    
 - Caso o usuário não queira informar nenhum filtro, basta clicar em **Pesquisar**.
    

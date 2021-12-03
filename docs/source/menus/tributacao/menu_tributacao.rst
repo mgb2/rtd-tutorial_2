@@ -1,10 +1,10 @@
 Tributação
 ##########
-- Menu (Superior) do Parceiro Comercial
+- Menu (Superior): **Cadastros -> Tributação**
 
 |imagem1|
 
-- Menu (Esquerdo) do Parceiro Comercial
+- Menu (Esquerdo): **Cadastros -> Tributação**
 
 |imagem2|
 

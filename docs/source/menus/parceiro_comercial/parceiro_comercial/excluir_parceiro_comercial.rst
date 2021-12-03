@@ -8,7 +8,7 @@ Excluir Parceiro Comercial
    - Após escolhido a Empresa o sistema irá questionar o usuário quanto ao registro.
 
 |imagem20|
-   - Depois de clicado em Excluir o sistema atualizará a lista da tela Editar Parceiro Comercial.
+   - Depois de clicado em **Deletar** o sistema atualizará a lista da tela Editar Parceiro Comercial.
 
 - Após as alterações efetuadas, basta clicar no botão Salvar da tela Editar Parceiro Comercial.
 

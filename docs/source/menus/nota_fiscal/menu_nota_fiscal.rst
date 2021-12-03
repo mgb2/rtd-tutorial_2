@@ -1,10 +1,10 @@
 Nota Fiscal
 ###########
-- Menu (Superior) do Parceiro Comercial
+- Menu (Superior): **Cadastros -> Nota Fiscal**
 
 |imagem1|
 
-- Menu (Esquerdo) do Parceiro Comercial
+- Menu (Esquerdo): **Cadastros -> Nota Fiscal**
 
 |imagem2|
 

@@ -1,10 +1,10 @@
 Parceiro Comercial
 ##################
-- Menu (Superior) do Parceiro Comercial
+- Menu (Superior): **Cadastros -> Parceiro Comercial**
 
 |imagem55|
 
-- Menu (Esquerdo) do Parceiro Comercial
+- Menu (Esquerdo): **Cadastros -> Parceiro Comercial**
 
 |imagem56|
 

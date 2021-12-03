@@ -4,7 +4,6 @@ Endereços Tipos
    * O sistema irá apresentar uma tela conforme exemplo.
 
 |imagem1|
-   - `Funções da Lista <lista_endereco_tipo.html#section>`__
 
 .. toctree::
    :maxdepth: 2
@@ -14,4 +13,4 @@ Endereços Tipos
    excluir_endereco_tipo
    lista_endereco_tipo
 
-.. |imagem1| image:: imagens/enderecos_tipos_1.png
+.. |imagem1| image:: imagens/Enderecos_Tipos_1.png

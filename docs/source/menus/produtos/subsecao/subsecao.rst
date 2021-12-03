@@ -1,6 +1,6 @@
 Subseções
 #########
-- No Menu (Superior ou Esquerdo) acesse a opção **Produtos -> Subseção**.
+- No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Produtos -> Subseção**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|

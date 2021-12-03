@@ -31,6 +31,8 @@ Editar Parceiro Comercial
 |imagem45|
    * Permite escolher o Segmento da Empresa e definir cores padrão.
 
+- Após informado corretamente os dados e clicado em **Salvar**, o sistema automaticamente atualizará os dados.
+
 .. toctree::
     :maxdepth: 2
 

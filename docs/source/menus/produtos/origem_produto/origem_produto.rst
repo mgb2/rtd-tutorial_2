@@ -1,6 +1,6 @@
 Origem do Produto
 #################
-- No Menu (Superior ou Esquerdo) acesse a opção **Produtos -> Origem Produto**.
+- No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Produtos -> Origem Produto**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
