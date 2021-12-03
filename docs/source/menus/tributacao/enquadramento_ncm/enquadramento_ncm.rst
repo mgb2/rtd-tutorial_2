@@ -26,7 +26,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> E
    criar_enquadramento_ncm
    editar_enquadramento_ncm
    excluir_enquadramento_ncm
-   lista_enquadramento_ncm
 
 .. |imagem1| image:: imagens/Enquadramento_NCM_1.png
 
