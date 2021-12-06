@@ -1,11 +1,10 @@
 Editar Item Comissão
 ####################
 .. toctree::
-    :maxdepth: 2
+   :glob:
+   :titlesonly:
 
-    criar_valor
-    editar_valor
-    excluir_valor
+   *
 
 - A tela da Edição permite alterar os dados de um Item da Comissão, Incluir, Alterar e Excluir Valores do item.
 
