@@ -1,5 +1,12 @@
 Comissão
 ########
+.. toctree::
+   :maxdepth: 2
+
+   criar_comissao
+   editar_comissao
+   excluir_comissao
+
 No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
@@ -20,13 +27,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Comissão**.
 
 |imagem11|
    - `Funções da Lista <lista_comissao.html#section>`__
-
-.. toctree::
-   :maxdepth: 2
-
-   criar_comissao
-   editar_comissao
-   excluir_comissao
 
 .. |imagem1| image:: imagens/comissao_1.png
 
