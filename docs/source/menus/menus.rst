@@ -10,7 +10,7 @@ Menus de Cadastro
 |imagem10|
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
 
    parceiro_comercial/menu_parceiro_comercial
    produtos/menus_produtos
