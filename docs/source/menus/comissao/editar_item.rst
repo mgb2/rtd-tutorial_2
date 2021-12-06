@@ -1,6 +1,7 @@
 Editar Item Comissão
 ####################
-:maxdepth: 2
+.. toctree::
+   :maxdepth: 2
 
     criar_valor
     editar_valor
