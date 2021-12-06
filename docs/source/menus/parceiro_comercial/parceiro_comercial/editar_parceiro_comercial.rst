@@ -25,14 +25,6 @@ Editar Parceiro Comercial
 
 |imagem12|
 
-- **Complementar**
-   - Mostrará os dados Complementares da Empresa.
-
-|imagem45|
-   * Permite escolher o Segmento da Empresa e definir cores padrão.
-
-- Após as alterações efetuadas, clique em **Salvar** que o sistema atualizará todos os dados.
-
 .. toctree::
     :maxdepth: 2
 
@@ -40,6 +32,14 @@ Editar Parceiro Comercial
     enderecos/enderecos
     sefaz/sefaz
     documentos/documentos
+
+- **Complementar**
+   - Mostrará os dados Complementares da Empresa.
+
+|imagem45|
+   * Permite escolher o Segmento da Empresa e definir cores padrão.
+
+- Após as alterações efetuadas, clique em **Salvar** que o sistema atualizará todos os dados.
 
 .. |imagem5| image:: imagens/Parceiro_Comercial_5.png
 
