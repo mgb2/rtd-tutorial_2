@@ -34,8 +34,11 @@ Editar Item Comissão
 - Após efetuadas as alterações e clicado em **Confirmar**, o sistema fechará a janela da Edição e atualizará a tela da Edição da Comissão.
 
 .. toctree::
+   :maxdepth: 2
 
     criar_valor
+    editar_valor
+    excluir_valor
 
 .. |imagem16| image:: imagens/Item_Valores.png
 
