@@ -23,6 +23,13 @@ Editar Item Comissão
 |Imagem22|
 
 - **Valores da Comissão**
+
+.. toctree::
+
+    criar_valor
+    editar_valor
+    excluir_valor
+
    * Exemplo de Item sem Valores adicionados.
    
 |imagem16|
@@ -33,11 +40,6 @@ Editar Item Comissão
    * `Funções da Lista <lista_comissao.html#section>`__
 - Após efetuadas as alterações e clicado em **Confirmar**, o sistema fechará a janela da Edição e atualizará a tela da Edição da Comissão.
 
-.. toctree::
-
-    criar_valor
-    editar_valor
-    excluir_valor
 
 .. |imagem16| image:: imagens/Item_Valores.png
 
