@@ -1,6 +1,6 @@
 Criar Endereço
 ##############
-- Permite adicionar Documentos ao Parceiro Comercial.
+- Permite adicionar Endereços ao Parceiro Comercial.
 
 - Essa opção é chamada através do botão **+ Adicionar Endereço** da tela Editar Parceiro Comercial.
 
