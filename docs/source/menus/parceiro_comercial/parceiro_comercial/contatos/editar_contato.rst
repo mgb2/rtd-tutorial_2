@@ -4,6 +4,7 @@ Editar Contato
 
 - Esta tela é chamada através da Lista dos Contatos da tela Editar Parceiro Comercial.
 - Para isso, baste selecionar um Contato da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
+
 |imagem17|
    - Após o sistema irá abrir uma nova tela com o Contato escolhido anteriormente.   
 

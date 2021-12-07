@@ -8,8 +8,9 @@ Documentos
 .. toctree::
     :maxdepth: 2
 
-    criar_documento
-    editar_documento
-    excluir_documento
+    criar_documentos
+    editar_documentos
+    baixar_documentos
+    excluir_documentos
 
 .. |imagem38| image:: imagens/Parceiro_Comercial_38.png
