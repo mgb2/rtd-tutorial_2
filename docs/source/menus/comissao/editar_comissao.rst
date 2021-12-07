@@ -22,13 +22,13 @@ Editar Comissão
    - Somente o Status da Comissão pode ser alterado.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
     
    criar_item
    editar_item
-      criar_valor
-      editar_valor
-      excluir_valor
+    criar_valor
+    editar_valor
+    excluir_valor
    excluir_item
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
