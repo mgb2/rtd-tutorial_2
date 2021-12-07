@@ -8,11 +8,7 @@ Aqui serão demonstrados os processos de Cadastro e Operações do Sistema Biz O
 Conteúdo
 --------
 
-.. |logo| image:: images/BizOne_logo.png
-                  :height: 100px
-                  :width: 200 px
-                  :scale: 150 %
-                  :align: middle
+.. |logo| image:: images/BizOne_inicial.png
 
 .. toctree::
    :maxdepth: 2
