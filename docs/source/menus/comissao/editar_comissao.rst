@@ -26,9 +26,6 @@ Editar Comissão
     
    criar_item
    editar_item
-   criar_valor
-   editar_valor
-   excluir_valor
    excluir_item
 
 .. |imagem5| image:: imagens/Editar_Comissao.png
