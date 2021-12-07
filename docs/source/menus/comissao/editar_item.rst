@@ -30,7 +30,7 @@ Editar Item Comissão
     editar_valor
     excluir_valor
 
-   * Exemplo de Item sem Valores adicionados.
+* Exemplo de Item sem Valores adicionados.
    
 |imagem16|
 
