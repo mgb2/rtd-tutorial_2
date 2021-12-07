@@ -13,9 +13,9 @@ Grupos
 .. toctree::
    :maxdepth: 2
 
-   criar_grupo
-   editar_grupo
-   excluir_grupo
+   criar_grupos
+   editar_grupos
+   excluir_grupos
 
 .. |imagem1| image:: imagens/Grupos_1.png
 

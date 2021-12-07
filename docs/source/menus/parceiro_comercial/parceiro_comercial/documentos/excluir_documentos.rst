@@ -2,7 +2,7 @@ Excluir Documentos
 ##################
 - A tela Editar Parceiro Comercial permite excluir um Documento.
 
-- Para isso, baste selecionar um Contato da Lista e ir até a Engrenagem situada à direita e escolher a opção **Remover**.
+- Para isso, baste selecionar um Documento da Lista e escolher a opção **Remover**.
 
 |imagem41|
    

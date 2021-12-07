@@ -12,7 +12,7 @@ Criar Documentos
    
 - Após escolhido o arquivo, abrirá uma nova tela com os dados do mesmo.
 
-|imgaem40|
+|imagem40|
    - Então o usuário deverá clicar em **Salvar** para que o documento seja anexado e a tela liste os dados do arquivo escolhido.
 
 |imagem41|
