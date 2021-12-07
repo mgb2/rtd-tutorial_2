@@ -10,6 +10,8 @@ Editar Produtos
    - Após o sistema irá abrir uma nova tela com o Produto escolhido anteriormente.   
 
 |imagem18|
+   * `Criar Referência <criar_referencia_produtos.html#section>`__
+      - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Referência.
 
 - **Características**
 
@@ -43,6 +45,8 @@ Editar Produtos
 .. |imagem17| image:: imagens/Produtos_17.png
 
 .. |imagem18| image:: imagens/Produtos_18.png
+
+.. |imagem33| image:: imagens/Produtos_33.png
 
 .. |imagem34| image:: imagens/Produtos_34.png
 
