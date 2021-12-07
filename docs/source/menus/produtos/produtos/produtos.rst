@@ -41,8 +41,13 @@ Produtos
    :maxdepth: 2
 
    criar_produto
+   deposito_padrao_produto
+   imprimir_selecionados_produtos
    editar_produto
+   etiqueta_produtos
    excluir_produto
+   editar_referencia_produtos
+   editar_documento_produtos
 
 .. |imagem1| image:: imagens/Produtos_1.png
 

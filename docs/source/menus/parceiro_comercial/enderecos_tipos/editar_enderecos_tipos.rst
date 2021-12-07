@@ -1,6 +1,6 @@
 Editar Endereços Tipos
 ######################
-- A tela da Edição permite alterar os dados de um Tipo de Endereço.
+- A tela do cadastro permite alterar os dados de um Tipo de Endereço.
 
 - Esta tela é chamada através da Lista dos Tipos de Endereço exibida na tela principal do Cadastro.
 - Para isso, basta selecionar um Tipo da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
