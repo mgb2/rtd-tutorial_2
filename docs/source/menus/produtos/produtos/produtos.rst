@@ -40,12 +40,12 @@ Produtos
 .. toctree::
    :maxdepth: 2
 
-   criar_produto
+   criar_produtos
    deposito_padrao_produto
    imprimir_selecionados_produtos
-   editar_produto
+   editar_produtos
    etiqueta_produtos
-   excluir_produto
+   excluir_produtos
    editar_referencia_produtos
    editar_documento_produtos
 

@@ -13,6 +13,8 @@ Editar Documentos de Entrada/Saída
 |imagem15|
 |imagem16|
 
+.. |imagem4| image:: imagens/Produtos_4.png
+
 .. |imagem13| image:: imagens/Produtos_13.png
 
 .. |imagem15| image:: imagens/Produtos_15.png
