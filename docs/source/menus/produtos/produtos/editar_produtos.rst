@@ -17,8 +17,11 @@ Editar Produtos
    * Permite cadastrar as características do produto quanto:
       + Quantidade;
       + `Tamanho <criar_tamanho_produtos.html#section>`__;
+         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Tamanho.
       + `Cor <criar_cor_produtos.html#section>`__;
+         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Cor.
       + `Marca <criar_marca_produtos.html#section>`__;
+         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Marca.
       + Lote;
       + Data de Validade;
       + Data de Fabricação.
@@ -40,3 +43,9 @@ Editar Produtos
 .. |imagem17| image:: imagens/Produtos_17.png
 
 .. |imagem18| image:: imagens/Produtos_18.png
+
+.. |imagem34| image:: imagens/Produtos_34.png
+
+.. |imagem35| image:: imagens/Produtos_35.png
+
+.. |imagem36| image:: imagens/Produtos_36.png
