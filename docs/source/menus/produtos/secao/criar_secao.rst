@@ -20,4 +20,4 @@ Criar Seção
 
 .. |imagem4| image:: imagens/Secao_4.png
 
-.. |imagem4| image:: imagens/Secao_4a.png
+.. |imagem4a| image:: imagens/Secao_4a.png
