@@ -20,4 +20,4 @@ Criar Subseção
 
 .. |imagem4| image:: imagens/Subsecao_4.png
 
-.. |imagem4| image:: imagens/Subsecao_4a.png
+.. |imagem4a| image:: imagens/Subsecao_4a.png
