@@ -14,6 +14,7 @@ Origem Produto
    :maxdepth: 2
 
    criar_origem_produto
+   importar_csv_origem_produto
    editar_origem_produto
    excluir_origem_produto
 

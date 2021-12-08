@@ -41,8 +41,11 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Volumes**.
    :maxdepth: 2
 
    criar_volumes
+   imprimir_selecionados_volumes
    editar_volumes
+   etiqueta_volumes
    excluir_volumes
+   tipo_documento_volumes
 
 .. |imagem1| image:: imagens/Volumes_1.png
 
