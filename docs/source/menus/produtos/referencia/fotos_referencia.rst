@@ -1,6 +1,6 @@
 Fotos
 #####
-- Permite adicionar Fotos à Referência
+- Permite adicionar Fotos à Referência.
 
 |imagem42|
    - O botão **+** abrirá uma tela para incluir uma foto.
