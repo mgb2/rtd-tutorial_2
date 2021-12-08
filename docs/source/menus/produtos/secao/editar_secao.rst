@@ -5,11 +5,11 @@ Editar Seção
 - Esta tela é chamada através da Lista das Seções exibida na tela principal do Cadastro.
 - Para isso, basta selecionar uma Seção da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 
-|imagem5|
+|imagem6|
    - `Funções da Lista <lista_secao.html#section>`__
    - Após o sistema irá abrir uma nova tela com a Seção escolhida anteriormente.   
 
-|imagem6|
+|imagem7|
    - O botão **Alterar** irá atualizar todas as modificações efetuadas.
 
 .. |imagem6| image:: imagens/Secao_6.png
