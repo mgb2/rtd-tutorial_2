@@ -1,19 +1,19 @@
 Cuidados
 ########
-- Permite adicionar Cuidados de um Produto à Referência.
+- Permite adicionar Cuidados de um Produto Ã  ReferÃªncia
 
 |imagem37|
-   - Referência sem Cuidados.
-   - O botão **+** abrirá uma tela para incluir um cuidado.
+   - ReferÃªncia sem Cuidados.
+   - O botÃ£o **+** abrirÃ¡ uma tela para incluir um cuidado.
 
 |imagem38|
-   - O sistema ainda permite abrir a tela do **Cadastro de Cuidados do Produto** através do botão |imagem51| que está à direita do ComboBox Cuidados.
+   - O sistema ainda permite abrir a tela do **Cadastro de Cuidados do Produto** atravÃ©s do botÃ£o |imagem51| que estÃ¡ Ã  direita do ComboBox Cuidados.
 
 |imagem39|
 
 |imagem40|
-   - Referência com Cuidados.
-   - O usuário ainda poderá excluir o cuidado através do ícone da lixeira contida na lista.
+   - ReferÃªncia com Cuidados.
+   - O usuÃ¡rio ainda poderÃ¡ excluir o cuidado atravÃ©s do Ã­cone da lixeira contida na lista.
    
 |imagem41|
 
