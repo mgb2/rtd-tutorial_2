@@ -12,6 +12,6 @@ Duplicar Referência
 |imagem45|
    - O botão **Confirmar** irá atualizar os dados.
 
-.. |imagem44| image:: imagens/Produtos_44.png
+.. |imagem44| image:: imagens/Referencias_44.png
 
-.. |imagem45| image:: imagens/Produtos_45.png
+.. |imagem45| image:: imagens/Referencias_45.png
