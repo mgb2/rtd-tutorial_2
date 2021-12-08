@@ -1,12 +1,12 @@
 Fotos
 #####
-- Permite adicionar Fotos à Referência.
+- Permite adicionar Fotos Ã  ReferÃªncia
 
 |imagem42|
-   - O botão **+** abrirá uma tela para incluir uma foto.
+   - O botÃ£o **+** abrirÃ¡ uma tela para incluir uma foto.
 
 |imagem43|
-   - Após deve-se clicar no **Salvar Imagens**.
+   - ApÃ³s deve-se clicar no **Salvar Imagens**.
 
 .. |imagem42| image:: imagens/Referencias_42.png
 
