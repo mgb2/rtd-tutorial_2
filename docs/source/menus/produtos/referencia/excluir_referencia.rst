@@ -10,6 +10,6 @@ Excluir Referência
 |imagem49|
    - Depois de clicado em **Sim** o sistema atualizará a lista.
 
-.. |imagem48| image:: imagens/Produtos_48.png
+.. |imagem48| image:: imagens/Referencias_48.png
 
-.. |imagem49| image:: imagens/Produtos_49.png
+.. |imagem49| image:: imagens/Referencias_49.png
