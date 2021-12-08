@@ -1,19 +1,19 @@
-Composição
+ComposiÃ§Ã£o
 ##########
-- Permite adicionar Composições de um Produto à Referência.
+- Permite adicionar ComposiÃ§Ãµes de um Produto Ã  ReferÃªncia
 
 |imagem33|
-   - Referência sem Composições.
-   - O botão **+** abrirá uma tela para incluir uma composição.
+   - ReferÃªncia sem ComposiÃ§Ãµes.
+   - O botÃ£o **+** abrirÃ¡ uma tela para incluir uma composiÃ§Ã£o.
 
 |imagem34|
-   - O sistema ainda permite abrir a tela do **Cadastro de Composição do Produto** através do botão |imagem51| que está à direita do ComboBox Composição.
+   - O sistema ainda permite abrir a tela do **Cadastro de ComposiÃ§Ã£o do Produto** atravÃ©s do botÃ£o |imagem51| que estÃ¡ Ã  direita do ComboBox ComposiÃ§Ã£o.
 
 |imagem35|
 
 |imagem36|
-   - Referência com Composições.
-   - O usuário ainda poderá excluir a composição através do ícone da lixeira contida na lista.
+   - ReferÃªncia com ComposiÃ§Ãµes.
+   - O usuÃ¡rio ainda poderÃ¡ excluir a composiÃ§Ã£o atravÃ©s do Ã­cone da lixeira contida na lista.
    
 |imagem36a|
 
