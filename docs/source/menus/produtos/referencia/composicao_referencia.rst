@@ -1,6 +1,6 @@
 Composição
 ##########
-- Permite adicionar Composições de um Produto à Referência
+- Permite adicionar Composições de um Produto à Referência.
 
 |imagem33|
    - Referência sem Composições.
