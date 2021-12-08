@@ -36,10 +36,10 @@ Editar Referência
 |imagem28|
    * Moeda;
    * `NCM <criar_ncm_referencia.html#section>`__;
-      - Essa opção é chamada através do botão |imagem33| que está à direita do campo NCM.
+      - Essa opção é chamada através do botão |imagem51| que está à direita do campo NCM.
    * CEST;
    * `Origem do Produto <origem_produto_referencia.html#section>`__;
-      - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Origem do Produto.
+      - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Origem do Produto.
    * Produto:
       - Custo do Produto;
       - Custo Médio.
