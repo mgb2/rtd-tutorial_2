@@ -16,8 +16,8 @@ Criar Marca
 
    * Após informado corretamente os dados e clicado em **Salvar**, o sistema voltará para a tela de cadastro e atualizará a lista das Marcas.   
 
-.. |imagem0| image:: imagens/Cor_0.png
+.. |imagem0| image:: imagens/Marca_0.png
 
-.. |imagem4| image:: imagens/Cor_4.png
+.. |imagem4| image:: imagens/Marca_4.png
 
-.. |imagem4| image:: imagens/Cor_4a.png
+.. |imagem4a| image:: imagens/Marca_4a.png
