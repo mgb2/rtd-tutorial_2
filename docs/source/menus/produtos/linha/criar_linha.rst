@@ -20,4 +20,4 @@ Criar Linha
 
 .. |imagem4| image:: imagens/Linha_4.png
 
-.. |imagem4| image:: imagens/Linha_4a.png
+.. |imagem4a| image:: imagens/Linha_4a.png
