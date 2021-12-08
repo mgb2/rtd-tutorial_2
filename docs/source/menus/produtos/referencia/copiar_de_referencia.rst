@@ -12,6 +12,6 @@ Copiar de Referência
 |imagem47|
    - O botão **Confirmar** irá atualizar os dados.
 
-.. |imagem46| image:: imagens/Produtos_46.png
+.. |imagem46| image:: imagens/Referencias_46.png
 
-.. |imagem47| image:: imagens/Produtos_47.png
+.. |imagem47| image:: imagens/Referencias_47.png
