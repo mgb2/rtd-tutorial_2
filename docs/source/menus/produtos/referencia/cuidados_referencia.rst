@@ -1,6 +1,6 @@
 Cuidados
 ########
-- Permite adicionar Cuidados de um Produto à Referência
+- Permite adicionar Cuidados de um Produto à Referência.
 
 |imagem37|
    - Referência sem Cuidados.
