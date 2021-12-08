@@ -17,19 +17,19 @@ Editar Referência
 |imagem21|
    * Permite cadastrar as características da referência quanto:
       + `Fornecedor <fornecedor_referencia.html#section>`__;
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Fornecedor.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Fornecedor.
       + `Fabricante <fornecedor_referencia.html#section>`__;
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Fabricante.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Fabricante.
       + `Marca <criar_marca_referencia.html#section>`__;
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Marca.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Marca.
       + `Linha <criar_linha_referencia.html#section>`__;
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Linha.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Linha.
       + `Departamento <criar_departamento_referencia.html#section>`__;
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Departamento.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Departamento.
       + `Seção <criar_secao_referencia.html#section>`__;
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Seção.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Seção.
       + `Subseção <criar_subsecao_referencia.html#section>`__.
-         - Essa opção é chamada através do botão |imagem33| que está à direita do ComboBox Subseção.
+         - Essa opção é chamada através do botão |imagem51| que está à direita do ComboBox Subseção.
 
 - **Contábil**
 
@@ -64,14 +64,18 @@ Editar Referência
 
 - O botão **Salvar** irá atualizar todas as modificações efetuadas.
 
-.. |imagem17| image:: imagens/Produtos_17.png
+.. |imagem18| image:: imagens/Referencias_18.png
 
-.. |imagem18| image:: imagens/Produtos_18.png
+.. |imagem19| image:: imagens/Referencias_19.png
 
-.. |imagem33| image:: imagens/Produtos_33.png
+.. |imagem20| image:: imagens/Referencias_20.png
 
-.. |imagem34| image:: imagens/Produtos_34.png
+.. |imagem21| image:: imagens/Referencias_21.png
 
-.. |imagem35| image:: imagens/Produtos_35.png
+.. |imagem28| image:: imagens/Referencias_28.png
 
-.. |imagem36| image:: imagens/Produtos_36.png
+.. |imagem31| image:: imagens/Referencias_31.png
+
+.. |imagem32| image:: imagens/Referencias_32.png
+
+.. |imagem51| image:: imagens/Referencias_51.png
