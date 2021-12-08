@@ -30,7 +30,16 @@ Referência
    :maxdepth: 2
 
    criar_referencia
+   alteracao_custo_referencia
+   impostos_referencia
+   download_modelos_a_referencia
+   download_modelos_b_referencia
+   download_modelos_custo_referencia
+   download_modelos_custo_simp_referencia
+   upload_modelos_referencia
    editar_referencia
+   duplicar_referencia
+   copiar_de_referencia
    excluir_referencia
 
 .. |imagem1a| image:: imagens/Referencias_1a.png

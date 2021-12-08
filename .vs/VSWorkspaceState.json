@@ -5,11 +5,11 @@
     "\\docs\\source",
     "\\docs\\source\\menus",
     "\\docs\\source\\menus\\produtos",
-    "\\docs\\source\\menus\\produtos\\cor",
+    "\\docs\\source\\menus\\produtos\\produtos",
     "\\docs\\source\\menus\\produtos\\referencia",
-    "\\docs\\source\\menus\\usuarios",
     "\\docs\\source\\menus\\usuarios\\grupos_usuarios",
     "\\docs\\source\\menus\\usuarios\\turnos"
   ],
+  "SelectedNode": "\\docs\\source\\menus\\produtos\\produtos\\criar_produtos.rst",
   "PreviewInSolutionExplorer": false
 }
