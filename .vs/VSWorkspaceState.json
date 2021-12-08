@@ -4,12 +4,10 @@
     "\\docs",
     "\\docs\\source",
     "\\docs\\source\\menus",
+    "\\docs\\source\\menus\\parceiro_comercial\\parceiro_comercial\\documentos",
     "\\docs\\source\\menus\\produtos",
-    "\\docs\\source\\menus\\produtos\\produtos",
-    "\\docs\\source\\menus\\produtos\\referencia",
-    "\\docs\\source\\menus\\usuarios\\grupos_usuarios",
-    "\\docs\\source\\menus\\usuarios\\turnos"
+    "\\docs\\source\\menus\\volumes"
   ],
-  "SelectedNode": "\\docs\\source\\menus\\produtos\\produtos\\criar_produtos.rst",
+  "SelectedNode": "\\docs\\source\\menus\\volumes\\tipo_documento_volumes.rst",
   "PreviewInSolutionExplorer": false
 }
