@@ -20,4 +20,4 @@ Criar Departamento
 
 .. |imagem4| image:: imagens/Departamento_4.png
 
-.. |imagem4| image:: imagens/Departamento_4a.png
+.. |imagem4a| image:: imagens/Departamento_4a.png
