@@ -16,7 +16,7 @@ Criar NCM/CEST
 
    * Após informado corretamente os dados e clicado em **Salvar**, o sistema atualizará a lista dos NCM/CEST.
 
-.. |imagem2| image:: imagens/NCM_CEST_1.png
+.. |imagem1| image:: imagens/NCM_CEST_1.png
 
 .. |imagem5| image:: imagens/NCM_CEST_5.png
 

@@ -5,7 +5,7 @@ Editar Utilização
 - Esta tela é chamada através da Lista das Utilizações exibida na tela principal do Cadastro.
 - Para isso, basta selecionar uma Utilização da Lista e ir até a Engrenagem situada à direita e escolher a opção **Editar**.
 
-|imagem6|
+|imagem8|
    - `Funções da Lista <lista_utilizacoes.html#section>`__
    - Após o sistema irá abrir uma nova tela com a Utilização escolhida anteriormente.   
 
@@ -26,7 +26,7 @@ Editar Utilização
 
 - O botão **Salvar** irá atualizar todas as modificações efetuadas.
 
-.. |imagem6| image:: imagens/Utilizacoes_6.png
+.. |imagem8| image:: imagens/Utilizacoes_8.png
 
 .. |imagem9| image:: imagens/Utilizacoes_9.png
 

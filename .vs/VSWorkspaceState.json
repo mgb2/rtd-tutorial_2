@@ -5,7 +5,9 @@
     "\\docs\\source",
     "\\docs\\source\\menus",
     "\\docs\\source\\menus\\tributacao",
-    "\\docs\\source\\menus\\tributacao\\modelos_impostos"
+    "\\docs\\source\\menus\\tributacao\\ibpt",
+    "\\docs\\source\\menus\\tributacao\\impostos"
   ],
+  "SelectedNode": "\\docs\\source\\menus\\tributacao\\impostos\\lista_lucro_real_impostos.rst",
   "PreviewInSolutionExplorer": false
 }

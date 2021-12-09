@@ -13,7 +13,7 @@ Criar Parâmetro
       - Essa opção é chamada através do botão |imagem17| que está à direita do ComboBox Modelo Nota Fiscal.
    * Após informado corretamente os dados e clicado em **Confirmar**, o sistema abrirá a tela de Edição dos Parâmetros.
 
-.. |imagem0| image:: imagens/Parametros_0.png
+.. |imagem1| image:: imagens/Parametros_1.png
 
 .. |imagem5| image:: imagens/Parametros_5.png
 
