@@ -14,6 +14,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> M
    :maxdepth: 2
 
    criar_municipios_ibge
+   importar_csv_municipios_ibge
    editar_municipios_ibge
    excluir_municipios_ibge
 

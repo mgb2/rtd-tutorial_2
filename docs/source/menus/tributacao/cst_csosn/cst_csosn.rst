@@ -18,6 +18,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> C
    :maxdepth: 2
 
    criar_cst_csosn
+   importar_csv_cst_csosn
    editar_cst_csosn
    excluir_cst_csosn
 

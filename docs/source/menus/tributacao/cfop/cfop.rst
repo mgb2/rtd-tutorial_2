@@ -14,6 +14,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> C
    :maxdepth: 2
 
    criar_cfop
+   importar_csv_csop
    editar_cfop
    excluir_cfop
 

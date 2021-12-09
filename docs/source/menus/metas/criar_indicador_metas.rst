@@ -8,7 +8,7 @@ Criar Indicador
 
 - Após clicar no botão, o sistema irá abrir uma nova tela para a criação do cadastro.
 
-|imagem3|
+|imagem5|
    * Após informado corretamente a Descrição e clicado em **Criar**, o sistema automaticamente atualizará o gráfico da tela com o Indicador estabelecido.
 
 .. |imagem2| image:: imagens/Metas_2.png

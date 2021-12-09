@@ -12,8 +12,8 @@ Excluir Meta
 |imagem9|
    - Depois de clicado em **Sim** o sistema atualizará o gráfico da tela.
 
-.. |imagem7| image:: imagens/Metas7.png
+.. |imagem7| image:: imagens/Metas_7.png
 
-.. |imagem8| image:: imagens/Metas8.png
+.. |imagem8| image:: imagens/Metas_8.png
 
-.. |imagem9| image:: imagens/Metas9.png
+.. |imagem9| image:: imagens/Metas_9.png
