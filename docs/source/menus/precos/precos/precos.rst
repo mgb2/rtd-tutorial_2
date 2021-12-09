@@ -29,7 +29,8 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Preços -> Preço
    :maxdepth: 2
 
    criar_precos
-   editar_precos
+   consultar_precos
+   duplicar_precos
    excluir_precos
 
 .. |imagem1| image:: imagens/Precos_1.png

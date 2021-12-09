@@ -24,6 +24,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Preços -> Promo�
    :maxdepth: 2
 
    criar_promocoes
+   download_modelo_promocoes
    editar_promocoes
    excluir_promocoes
 

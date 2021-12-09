@@ -5,13 +5,14 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Metas**.
 
 |imagem1|
 
-- Após a definição do Indicador, os resultados serão apresentados conforme exemplo.
+- Após a definição do Indicador e do Ano, os resultados serão apresentados conforme exemplo.
 
 |imagem2|
 
 .. toctree::
    :maxdepth: 2
 
+   criar_indicador_metas
    criar_metas
    editar_metas
    excluir_metas
