@@ -33,7 +33,7 @@ Editar Promoção
    - **Download Modelo**
    - **Enviar Arquivo CSV**
 
-   - Ambas opções abrirão uma tela para escolher um arquivo para baixar ou vincular os dados de uma Promoção.
+      - Ambas opções abrirão uma tela para escolher um arquivo para baixar ou vincular os dados de uma Promoção.
 
 |imagem10|
 
@@ -50,7 +50,7 @@ Editar Promoção
 
 |imagem15|
 
-- ***Excluir Itens da Promoção*
+- **Excluir Itens da Promoção**
    - O sistema permite efetuar a exclusão dos itens de uma promoção.
    - Para isso, baste selecionar um Item da Lista e ir até a Engrenagem situada à direita e escolher a opção **Deletar**.
 
@@ -61,7 +61,7 @@ Editar Promoção
 |imagem19|
    - Depois de clicado em **Sim** o sistema atualizará a Lista dos Itens da Promoção.
 
-.. |imagem5| image:: imagens/Promocoes_6.png
+.. |imagem6| image:: imagens/Promocoes_6.png
 
 .. |imagem7| image:: imagens/Promocoes_7.png
 

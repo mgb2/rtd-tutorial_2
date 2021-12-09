@@ -14,6 +14,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> S
    :maxdepth: 2
 
    criar_simples_nacional
+   criar_todos_root_simples_nacional
    editar_simples_nacional
    excluir_simples_nacional
 

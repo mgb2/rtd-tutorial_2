@@ -13,7 +13,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> I
 .. toctree::
    :maxdepth: 2
 
-   criar_ibpt
+   importar_csv_ibpt
    editar_ibpt
    excluir_ibpt
 

@@ -14,6 +14,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Utilizações**.
    :maxdepth: 2
 
    criar_utilizacoes
+   importar_csv_utilizacoes
    editar_utilizacoes
    excluir_utilizacoes
 

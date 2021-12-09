@@ -8,6 +8,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> P
 
 |imagem2|
    - Tela com parâmetros cadastrados.
+   - `Funções da Lista <lista_parametros.html#section>`__
 
 .. toctree::
    :maxdepth: 2
