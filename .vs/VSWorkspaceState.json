@@ -4,10 +4,9 @@
     "\\docs",
     "\\docs\\source",
     "\\docs\\source\\menus",
-    "\\docs\\source\\menus\\parceiro_comercial\\parceiro_comercial\\documentos",
-    "\\docs\\source\\menus\\produtos",
-    "\\docs\\source\\menus\\volumes"
+    "\\docs\\source\\menus\\precos\\precos",
+    "\\docs\\source\\menus\\precos\\promocoes"
   ],
-  "SelectedNode": "\\docs\\source\\menus\\volumes\\tipo_documento_volumes.rst",
+  "SelectedNode": "\\docs\\source\\menus\\precos",
   "PreviewInSolutionExplorer": false
 }
