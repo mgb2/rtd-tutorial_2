@@ -14,6 +14,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> M
 
    criar_modelos_impostos
    criar_tipos_modelos_impostos
+   formulas_modelos_impostos
    editar_modelos_impostos
    excluir_modelos_impostos
 

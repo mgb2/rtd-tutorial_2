@@ -7,7 +7,7 @@ Editar IBPT
 
 |imagem8|
    - `Funções da Lista <lista_ibpt.html#section>`__
-   - Após o sistema irá abrir uma nova tela com o IBPT Nacional escolhido anteriormente.   
+   - Após o sistema irá abrir uma nova tela com o IBPT escolhido anteriormente.   
 
 |imagem9|
 

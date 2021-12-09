@@ -16,7 +16,7 @@ Criar CST CSOSN
 
    * Após informado corretamente os dados e clicado em **Salvar**, o sistema atualizará a lista dos CST CSOSN.
 
-.. |imagem2| image:: imagens/CST_CSOSN_1.png
+.. |imagem2| image:: imagens/CST_CSOSN_2.png
 
 .. |imagem5| image:: imagens/CST_CSOSN_5.png
 

@@ -2,7 +2,7 @@ Criar Modelo Imposto
 ####################
 - Permite a criação de um novo Modelo de Imposto.
 
-- Essa opção é chamada através do botão **Criar Novo** da tela principal do Cadastro de Municípios.
+- Essa opção é chamada através do botão **Criar Novo** da tela principal do Cadastro de Modelos de Impostos.
 
 |imagem1|
 
