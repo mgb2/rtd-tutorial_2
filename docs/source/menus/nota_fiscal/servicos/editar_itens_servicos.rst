@@ -33,3 +33,5 @@ Editar Item Serviço
 .. |imagem14| image:: imagens/Servicos_14.png
 
 .. |imagem15| image:: imagens/Servicos_15.png
+
+.. |imagem20| image:: imagens/Servicos_20.png
