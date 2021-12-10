@@ -5,9 +5,9 @@
     "\\docs\\source",
     "\\docs\\source\\menus",
     "\\docs\\source\\menus\\tributacao",
-    "\\docs\\source\\menus\\tributacao\\cfop",
-    "\\docs\\source\\menus\\tributacao\\enquadramento_ncm"
+    "\\docs\\source\\menus\\tributacao\\enquadramento_ncm",
+    "\\docs\\source\\menus\\tributacao\\impostos"
   ],
-  "SelectedNode": "\\docs\\source\\menus\\tributacao\\cfop",
+  "SelectedNode": "\\docs\\source\\menus\\tributacao\\enquadramento_ncm\\impostos_enquadramento_ncm.rst",
   "PreviewInSolutionExplorer": false
 }

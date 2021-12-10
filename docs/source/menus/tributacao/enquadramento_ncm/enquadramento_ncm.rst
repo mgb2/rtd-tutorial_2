@@ -20,12 +20,16 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> E
 |imagem2|
    - `Funções da Lista <lista_enquadramento_ncm.html#section>`__
 
+- Caso o usuário queira informar outros filtros, basta clicar em **Limpar** que o sistema limpará todos.
+
 .. toctree::
    :maxdepth: 2
 
-   criar_enquadramento_ncm
-   editar_enquadramento_ncm
-   excluir_enquadramento_ncm
+   impostos_enquadramento_ncm
+   criar_imposto_enquadramento_ncm
+   editar_imposto_enquadramento_ncm
+   duplicar_imposto_enquadramento_ncm
+   excluir_imposto_enquadramento_ncm
 
 .. |imagem1| image:: imagens/Enquadramento_NCM_1.png
 
