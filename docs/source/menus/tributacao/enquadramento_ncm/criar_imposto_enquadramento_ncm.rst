@@ -1,17 +1,20 @@
-Enquadramento NCM - Impostos
-############################
-* Ao selecionar um NCM, o sistema automaticamente irá expandir a lista exibindo outra lista com os Impostos vinculados.
+Criar Imposto - Enquadramento NCM
+#################################
+   - Esta tela é chamada através da Lista dos Impostos de um Enquadramentos NCM na tela principal do Cadastro.
+   - Para isso, basta selecionar um Imposto da Lista e clicar no botão **Adicionar Imposto**.
 
-|imagem5|
-|imagem6|
+|imagem7|
+   - Após o sistema irá abrir uma nova tela.
 
-.. toctree::
-   :maxdepth: 2
+|imagem17|
+|imagem18|
+|imagem19|
+   - Nesta tela de edição, o usuário poderá informar:
+      - Status;
+      - Dados;
+      - Regra.
 
-   criar_imposto_enquadramento_ncm
-   editar_imposto_enquadramento_ncm
-   duplicar_imposto_enquadramento_ncm
-   excluir_imposto_enquadramento_ncm
+- Após alterados os dados e clicado em **Confirmar**, o sistema atualizará a lista.
 
 .. |imagem5| image:: imagens/Enquadramento_NCM_5.png
 

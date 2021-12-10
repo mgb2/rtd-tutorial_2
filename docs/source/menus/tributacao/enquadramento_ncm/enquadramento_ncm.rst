@@ -26,10 +26,6 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> E
    :maxdepth: 2
 
    impostos_enquadramento_ncm
-   criar_imposto_enquadramento_ncm
-   editar_imposto_enquadramento_ncm
-   duplicar_imposto_enquadramento_ncm
-   excluir_imposto_enquadramento_ncm
 
 .. |imagem1| image:: imagens/Enquadramento_NCM_1.png
 
