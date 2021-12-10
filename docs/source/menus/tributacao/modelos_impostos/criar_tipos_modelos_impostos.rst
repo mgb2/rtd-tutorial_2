@@ -41,6 +41,6 @@ Criar Tipos de Impostos
 
 .. |imagem8| image:: imagens/Modelos_Impostos_8.png
 
-.. |imagem8| image:: imagens/Modelos_Impostos_9.png
+.. |imagem9| image:: imagens/Modelos_Impostos_9.png
 
 .. |imagem16| image:: imagens/Modelos_Impostos_16.png
