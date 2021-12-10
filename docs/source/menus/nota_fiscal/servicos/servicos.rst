@@ -13,6 +13,7 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Nota Fiscal -> Se
    :maxdepth: 2
 
    criar_servicos
+   importar_root_servicos
    editar_servicos
    excluir_servicos
 

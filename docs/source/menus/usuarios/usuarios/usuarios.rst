@@ -21,7 +21,10 @@ Usuários
 
    criar_usuarios
    editar_usuarios
+   alterar_senha_usuarios
+   token_acesso_usuarios
    excluir_usuarios
+   desativar_usuarios
 
 .. |imagem1| image:: imagens/Usuarios_1.png
 

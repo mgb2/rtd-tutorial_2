@@ -17,6 +17,6 @@ Editar Serviço
 
    itens_servicos
 
-.. |imagem7| image:: imagens/Modelos_7.png
+.. |imagem6| image:: imagens/Servicos_6.png
 
-.. |imagem8| image:: imagens/Modelos_8.png
+.. |imagem20| image:: imagens/Servicos_20.png

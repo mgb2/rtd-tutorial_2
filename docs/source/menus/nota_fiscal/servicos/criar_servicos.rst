@@ -15,6 +15,6 @@ Criar Serviço
 
 .. |imagem1| image:: imagens/Servicos_1.png
 
-.. |imagem2| image:: imagens/Servicos_5.png
+.. |imagem3| image:: imagens/Servicos_3.png
 
-.. |imagem4| image:: imagens/Servicos_6.png
+.. |imagem4| image:: imagens/Servicos_4.png
