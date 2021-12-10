@@ -11,6 +11,6 @@ Editar Modelo Imposto
 |imagem13|
    - Após alterados os dados e clicado em **Confirmar**, o sistema atualizará a lista.
 
-.. |imagem13| image:: imagens/Modelos_Impostos_12.png
+.. |imagem12| image:: imagens/Modelos_Impostos_12.png
 
-.. |imagem12| image:: imagens/Modelos_Impostos_13.png
+.. |imagem13| image:: imagens/Modelos_Impostos_13.png

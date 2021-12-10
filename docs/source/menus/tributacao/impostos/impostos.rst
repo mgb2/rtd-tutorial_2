@@ -40,4 +40,4 @@ No Menu (Superior ou Esquerdo) acesse a opção **Cadastros -> Tributação -> I
 
 .. |imagem8| image:: imagens/Impostos_8.png
 
-.. |imagem8| image:: imagens/Impostos_8a.png
+.. |imagem8a| image:: imagens/Impostos_8a.png

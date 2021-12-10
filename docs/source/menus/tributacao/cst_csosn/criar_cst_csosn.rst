@@ -20,4 +20,4 @@ Criar CST CSOSN
 
 .. |imagem5| image:: imagens/CST_CSOSN_5.png
 
-.. |imagem6| image:: imagens/CST_CSOSN6.png
+.. |imagem6| image:: imagens/CST_CSOSN_6.png
