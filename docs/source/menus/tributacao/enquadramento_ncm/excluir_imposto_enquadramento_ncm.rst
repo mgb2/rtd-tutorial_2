@@ -1,17 +1,13 @@
-Enquadramento NCM - Impostos
-############################
-* Ao selecionar um NCM, o sistema automaticamente irá expandir a lista exibindo outra lista com os Impostos vinculados.
+Excluir Imposto - Enquadramento NCM
+###################################
+   - Esta tela é chamada através da Lista dos Impostos de um Enquadramentos NCM na tela principal do Cadastro.
+   - Para isso, basta selecionar um Imposto da Lista e ir até a Engrenagem situada à direita e escolher a opção **Excluir**.
 
-|imagem5|
-|imagem6|
+|imagem15|
+   - Após o sistema irá questionar o usuário.
 
-.. toctree::
-   :maxdepth: 2
-
-   criar_imposto_enquadramento_ncm
-   editar_imposto_enquadramento_ncm
-   duplicar_imposto_enquadramento_ncm
-   excluir_imposto_enquadramento_ncm
+|imagem16|
+   - Após clicado em **Sim**, o sistema atualizará a lista.
 
 .. |imagem5| image:: imagens/Enquadramento_NCM_5.png
 
