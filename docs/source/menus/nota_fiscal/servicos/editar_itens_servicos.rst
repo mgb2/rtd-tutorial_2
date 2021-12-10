@@ -2,7 +2,7 @@ Editar Item Serviço
 ###################
 - Esta tela é chamada através da Lista de Itens de Serviços exibida na tela de Edição do Serviço.
 
-|imagem4|
+|imagem20|
 
 - **Editar Item Serviço Produção**
    - Para isso, basta selecionar um Item e ir até a Engrenagem situada à direita e escolher a opção **Editar**.

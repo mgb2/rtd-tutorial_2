@@ -13,7 +13,9 @@ Grupos de Usuários
    :maxdepth: 2
 
    criar_grupos_usuarios
+   privilegios_grupos_usuarios
    editar_grupos_usuarios
+   detalhes_grupos_usuarios
    excluir_grupos_usuarios
 
 .. |imagem1| image:: imagens/Grupos_Usuarios_1.png

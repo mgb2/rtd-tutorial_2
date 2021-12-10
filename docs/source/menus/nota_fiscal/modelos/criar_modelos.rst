@@ -15,7 +15,7 @@ Criar Modelo
 
 |imagem6|
 
-.. |imagem2| image:: imagens/Modelos_1.png
+.. |imagem1| image:: imagens/Modelos_1.png
 
 .. |imagem5| image:: imagens/Modelos_5.png
 

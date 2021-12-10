@@ -4,10 +4,10 @@ Turnos
    * O sistema irá apresentar uma tela conforme exemplo abaixo.
 
 |imagem1|
-   * Tela sem nenhuma cor cadastrada.
+   * Tela sem nenhuma turno cadastrada.
 
 |imagem2|
-   - Tela com cores cadastradas.
+   - Tela com turnos cadastrados.
    - `Funções da Lista <lista_turnos.html#section>`__
 
 .. toctree::
