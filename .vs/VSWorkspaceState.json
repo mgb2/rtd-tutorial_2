@@ -5,9 +5,9 @@
     "\\docs\\source",
     "\\docs\\source\\menus",
     "\\docs\\source\\menus\\tributacao",
-    "\\docs\\source\\menus\\tributacao\\ibpt",
-    "\\docs\\source\\menus\\tributacao\\impostos"
+    "\\docs\\source\\menus\\tributacao\\cfop",
+    "\\docs\\source\\menus\\tributacao\\enquadramento_ncm"
   ],
-  "SelectedNode": "\\docs\\source\\menus\\tributacao\\impostos\\lista_lucro_real_impostos.rst",
+  "SelectedNode": "\\docs\\source\\menus\\tributacao\\cfop",
   "PreviewInSolutionExplorer": false
 }
